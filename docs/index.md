@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**World Value Models for Robotic Manipulation**|Xiao Ma Team|[2606.24742](http://arxiv.org/abs/2606.24742)|null|
 |**2026-06-23**|**Beyond Monotonic Progress: Retry-Supervised Value Learning for Robot Imitation**|Li Zhao Team|[2606.24633](http://arxiv.org/abs/2606.24633)|null|
 |**2026-06-23**|**Enabling Robust Cloth Manipulation via Inference-Time Simulator-in-the-Loop Refinement**|Fan Shi Team|[2606.24552](http://arxiv.org/abs/2606.24552)|null|
 |**2026-06-23**|**G $^3$ VLA: Geometric inductive bias for Vision-Language-Action Models**|Li Guo Team|[2606.24472](http://arxiv.org/abs/2606.24472)|null|
@@ -2730,6 +2731,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics**|Kai Furmans Team|[2606.24814](http://arxiv.org/abs/2606.24814)|null|
+|**2026-06-23**|**World Value Models for Robotic Manipulation**|Xiao Ma Team|[2606.24742](http://arxiv.org/abs/2606.24742)|null|
+|**2026-06-23**|**BioMedVR: Confusion-Aware Mixture-of-Prompt Experts for Biomedical Visual Reprogramming**|Mingkun Xu Team|[2606.24740](http://arxiv.org/abs/2606.24740)|**[link](https://jxliu-ai.github.io/biomedvr-page/)**|
+|**2026-06-23**|**Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations**|Begüm Demir Team|[2606.24716](http://arxiv.org/abs/2606.24716)|null|
 |**2026-06-23**|**Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning**|Yongsheng Li Team|[2606.24548](http://arxiv.org/abs/2606.24548)|**[link](https://github.com/jylei16/CF-World.github.io)**|
 |**2026-06-23**|**VisCritic: Visual State Comparison as Process Reward for GUI Agents**|Jiachen Qian Team|[2606.24525](http://arxiv.org/abs/2606.24525)|null|
 |**2026-06-23**|**Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation**|Oleksandr Kosovan Team|[2606.24515](http://arxiv.org/abs/2606.24515)|null|
