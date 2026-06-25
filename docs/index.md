@@ -9,6 +9,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Mingyu Ding Team|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
+|**2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Yiannis Aloimonos Team|[2606.26093](http://arxiv.org/abs/2606.26093)|null|
+|**2026-06-24**|**G2DP: Diffusion Planning with Spatio-Temporal Grid Guidance**|Wilhelm Stork Team|[2606.26017](http://arxiv.org/abs/2606.26017)|null|
+|**2026-06-24**|**Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models**|Meng Guo Team|[2606.25985](http://arxiv.org/abs/2606.25985)|null|
+|**2026-06-24**|**DSP-SLAM++: A Unified Framework for Multi-Class, High-Fidelity Object SLAM in the Wild**|Imad Elhajj Team|[2606.25953](http://arxiv.org/abs/2606.25953)|null|
+|**2026-06-24**|**ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models**|Flora D. Salim Team|[2606.25800](http://arxiv.org/abs/2606.25800)|null|
+|**2026-06-24**|**Stage-Aware and Roughness-Constrained Diffusion Policy for Multi-Stage Robotic Polishing**|Han Ding Team|[2606.25754](http://arxiv.org/abs/2606.25754)|null|
+|**2026-06-24**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Frank Kirchner Team|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
+|**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Hua Chen Team|[2606.25503](http://arxiv.org/abs/2606.25503)|null|
+|**2026-06-24**|**Decoupling Semantics and Geometric Grounding: Spatial Visual Prompts for Language-Conditioned Imitation Learning**|Long Zeng Team|[2606.25360](http://arxiv.org/abs/2606.25360)|null|
+|**2026-06-23**|**GRAFT: Graph-Based Affordance Transfer via Part Correspondence**|Danfei Xu Team|[2606.25241](http://arxiv.org/abs/2606.25241)|null|
+|**2026-06-23**|**Spatio-Temporal Retrieval-based Priors for Adaptive Computational Teaching in Driving**|Guy Rosman Team|[2606.25224](http://arxiv.org/abs/2606.25224)|null|
+|**2026-06-23**|**RigPI: Dynamic Parameter Identification of Rigid Body via VLM-Seeded Differentiable Simulation**|Wenqiang Xu Team|[2606.25212](http://arxiv.org/abs/2606.25212)|null|
+|**2026-06-23**|**Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control**|Roberto Martín-Martín Team|[2606.25136](http://arxiv.org/abs/2606.25136)|null|
 |**2026-06-23**|**World Value Models for Robotic Manipulation**|Xiao Ma Team|[2606.24742](http://arxiv.org/abs/2606.24742)|null|
 |**2026-06-23**|**Beyond Monotonic Progress: Retry-Supervised Value Learning for Robot Imitation**|Li Zhao Team|[2606.24633](http://arxiv.org/abs/2606.24633)|null|
 |**2026-06-23**|**Enabling Robust Cloth Manipulation via Inference-Time Simulator-in-the-Loop Refinement**|Fan Shi Team|[2606.24552](http://arxiv.org/abs/2606.24552)|null|
