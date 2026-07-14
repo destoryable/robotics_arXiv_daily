@@ -16,6 +16,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation**|Jeannette Bohg Team|[2607.11884](http://arxiv.org/abs/2607.11884)|null|
+|**2026-07-13**|**Trajectory Planning and Certification for 3-DOF Robot Manipulators Using Real Quantifier Elimination Based on Comprehensive Gröbner Systems**|Masahiko Mikawa Team|[2607.11657](http://arxiv.org/abs/2607.11657)|null|
+|**2026-07-13**|**EDAR: Learning Environment-Dependent Action Representations for Robotic Manipulation**|Wenqiang Zhang Team|[2607.11427](http://arxiv.org/abs/2607.11427)|null|
+|**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Jianan Wang Team|[2607.11270](http://arxiv.org/abs/2607.11270)|null|
+|**2026-07-13**|**Pix2Act: Image-Space Manipulation Policies with Equivariant Augmentation**|Robert Platt Team|[2607.11167](http://arxiv.org/abs/2607.11167)|**[link](https://haojhuang.github.io/pix2act_page/)**|
+|**2026-07-13**|**VIA: Visual Interface Agent for Robot Control**|Dorsa Sadigh Team|[2607.11119](http://arxiv.org/abs/2607.11119)|null|
+|**2026-07-13**|**SegDiff: Segmented Trajectory Diffusion for Consistent and Adaptive Robot Manipulation**|Yu-Gang Jiang Team|[2607.11027](http://arxiv.org/abs/2607.11027)|null|
 |**2026-07-12**|**A Single Diffusion-Policy Controller for Multi-Task Block Pushing with Zero-Shot Sim-to-Real Transfer**|Na Li Team|[2607.10892](http://arxiv.org/abs/2607.10892)|null|
 |**2026-07-12**|**Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification**|Robin Walters Team|[2607.10706](http://arxiv.org/abs/2607.10706)|**[link](https://haojhuang.github.io/amp_page/)**|
 |**2026-07-12**|**Dual-Process Atomic Skill Learning: Decoupling Semantic Reasoning and Real-Time Control**|Huiping Zhuang Team|[2607.10625](http://arxiv.org/abs/2607.10625)|null|
@@ -2906,6 +2913,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues**|Yoshiki Ohira Team|[2607.11633](http://arxiv.org/abs/2607.11633)|null|
+|**2026-07-13**|**Interaction Scaling: Grounding the Third Axis of Test-Time Compute**|Noah Shi Team|[2607.11598](http://arxiv.org/abs/2607.11598)|null|
+|**2026-07-13**|**The Ebb and Flow of Multimodal Focus: Scheduling Visual Relay Windows for Grounded VLM Reasoning**|Heng Tao Shen Team|[2607.11436](http://arxiv.org/abs/2607.11436)|null|
+|**2026-07-13**|**StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure**|Biwei Huang Team|[2607.11388](http://arxiv.org/abs/2607.11388)|null|
+|**2026-07-13**|**AutoVSR: Automatic Visual-to-Symbolic Reasoning for Symbolic Expression Generation from Circuit Schematic**|Mingyu Liu Team|[2607.11338](http://arxiv.org/abs/2607.11338)|null|
+|**2026-07-13**|**DeepBias: Adaptive In-depth Probing of Social Biases in LVLMs**|Xilin Chen Team|[2607.11228](http://arxiv.org/abs/2607.11228)|null|
+|**2026-07-13**|**DynEval: Holistic Evaluations of T2I Generative Models in the Wild**|Anirban Chakraborty Team|[2607.11199](http://arxiv.org/abs/2607.11199)|**[link](https://vcl-iisc.github.io/dyneval/)**|
+|**2026-07-13**|**The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy**|Jianxin Lin Team|[2607.11175](http://arxiv.org/abs/2607.11175)|**[link](https://github.com/zhcz328/Awesome-Medical-Agents)**|
+|**2026-07-13**|**When Depth Is Better Told Than Shown: Depth-Ordinal Prompting for Vision-Language Spatial Reasoning**|Thong Nguyen Team|[2607.11173](http://arxiv.org/abs/2607.11173)|null|
+|**2026-07-13**|**RetroHolmes: When Semantic Plausibility Fails Retrospective Physical Process Reasoning**|Wen-Huang Cheng Team|[2607.11044](http://arxiv.org/abs/2607.11044)|null|
+|**2026-07-13**|**Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies**|Mohamed Chetouani Team|[2607.10991](http://arxiv.org/abs/2607.10991)|null|
+|**2026-07-13**|**TreeSoc: Tree-Structured Dynamic Reasoning and Tool Synergy for Soccer Video Understanding**|Minh-Triet Tran Team|[2607.10990](http://arxiv.org/abs/2607.10990)|null|
+|**2026-07-13**|**MED-DSLC: Multi-Expert-Domain Classification via Domain Supervision and Logit Calibration**|Nuno Vasconcelos Team|[2607.10985](http://arxiv.org/abs/2607.10985)|**[link](https://github.com/Leonard-Zeng/MED-DSLC)**|
 |**2026-07-12**|**3D-DefectBench: A Controlled Factorial Study of Vision-Language Model Evaluation Pipelines for Fine-Grained 3D Generation Defects**|Zeyu Zheng Team|[2607.10826](http://arxiv.org/abs/2607.10826)|null|
 |**2026-07-12**|**Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos**|Tuka Alhanai Team|[2607.10797](http://arxiv.org/abs/2607.10797)|null|
 |**2026-07-12**|**Mixture of Cognitive Experts in Large Vision-Language Models**|Ngai-Man Cheung Team|[2607.10796](http://arxiv.org/abs/2607.10796)|null|
@@ -7737,6 +7757,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Xuelong Li Team|[2607.11689](http://arxiv.org/abs/2607.11689)|null|
+|**2026-07-13**|**See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models**|Jaegul Choo Team|[2607.11498](http://arxiv.org/abs/2607.11498)|**[link](https://davian-robotics.github.io/pointmap/)**|
+|**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Jianan Wang Team|[2607.11270](http://arxiv.org/abs/2607.11270)|null|
+|**2026-07-13**|**VIA: Visual Interface Agent for Robot Control**|Dorsa Sadigh Team|[2607.11119](http://arxiv.org/abs/2607.11119)|null|
 |**2026-07-12**|**Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models**|Daniel Rakita Team|[2607.10655](http://arxiv.org/abs/2607.10655)|null|
 |**2026-07-11**|**SUREFlow: State-space Uncertainty-aware REsidual Flow Matching for Robust Robot Manipulation**|Sangtae Ahn Team|[2607.10504](http://arxiv.org/abs/2607.10504)|null|
 |**2026-07-11**|**ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception**|Xinlei Chen Team|[2607.10180](http://arxiv.org/abs/2607.10180)|null|
@@ -9151,6 +9175,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Requirement-Driven Design of Whole-Body Social Tactile Sensing via Virtual Human-Robot Interaction**|Wenzhen Yuan Team|[2607.11690](http://arxiv.org/abs/2607.11690)|null|
+|**2026-07-13**|**DA-Nav: Direction-Aware City-Scale Vision-Language Navigation**|Zhulin An Team|[2607.11638](http://arxiv.org/abs/2607.11638)|null|
+|**2026-07-13**|**Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues**|Yoshiki Ohira Team|[2607.11633](http://arxiv.org/abs/2607.11633)|null|
+|**2026-07-13**|**WarpMPC: Large-Batch MPC on GPU via ADMM with Unrolled $LDL^\top$ Factorization**|Sebastian Trimpe Team|[2607.11603](http://arxiv.org/abs/2607.11603)|null|
 |**2026-07-12**|**Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors**|Mingguo Zhao Team|[2607.10815](http://arxiv.org/abs/2607.10815)|null|
 |**2026-07-10**|**Effects of Robotic Touch on Older Users During Walking Guidance by a Humanoid Robot**|Katja Mombaur Team|[2607.09323](http://arxiv.org/abs/2607.09323)|null|
 |**2026-07-09**|**ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation**|Davis Rempe Team|[2607.08741](http://arxiv.org/abs/2607.08741)|null|
@@ -9713,6 +9741,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Preston Culbertson Team|[2607.11874](http://arxiv.org/abs/2607.11874)|**[link](https://yunhaifeng.com/REGRIND)**|
+|**2026-07-13**|**Towards Human-level Dexterous Teleoperation**|Siyuan Huang Team|[2607.11481](http://arxiv.org/abs/2607.11481)|**[link](https://bigai-dex.github.io/blog/teledexter/)**|
+|**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Jianan Wang Team|[2607.11270](http://arxiv.org/abs/2607.11270)|null|
 |**2026-07-10**|**TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation**|Jingya Wang Team|[2607.09190](http://arxiv.org/abs/2607.09190)|null|
 |**2026-07-09**|**DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation**|Mingyu Ding Team|[2607.08751](http://arxiv.org/abs/2607.08751)|null|
 |**2026-07-09**|**AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance**|Cewu Lu Team|[2607.08341](http://arxiv.org/abs/2607.08341)|null|
