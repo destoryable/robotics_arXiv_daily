@@ -2,13 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**A Single Diffusion-Policy Controller for Multi-Task Block Pushing with Zero-Shot Sim-to-Real Transfer**|Na Li Team|[2607.10892](http://arxiv.org/abs/2607.10892)|null|
+|**2026-07-12**|**Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification**|Robin Walters Team|[2607.10706](http://arxiv.org/abs/2607.10706)|**[link](https://haojhuang.github.io/amp_page/)**|
+|**2026-07-12**|**Dual-Process Atomic Skill Learning: Decoupling Semantic Reasoning and Real-Time Control**|Huiping Zhuang Team|[2607.10625](http://arxiv.org/abs/2607.10625)|null|
+|**2026-07-11**|**SUREFlow: State-space Uncertainty-aware REsidual Flow Matching for Robust Robot Manipulation**|Sangtae Ahn Team|[2607.10504](http://arxiv.org/abs/2607.10504)|null|
+|**2026-07-11**|**Large Language Model Enhanced Differentiable Trajectory Planning for IoT-Enabled Autonomous Driving**|Ashok Kumar Das Team|[2607.10438](http://arxiv.org/abs/2607.10438)|null|
+|**2026-07-11**|**VINE: Taming Generative Control Policies for Reinforcement Learning**|Maoqing Yao Team|[2607.10369](http://arxiv.org/abs/2607.10369)|null|
+|**2026-07-11**|**Source-Lifted Flow Matching for Intervenable Multimodal Imitation**|Hui Xiong Team|[2607.10206](http://arxiv.org/abs/2607.10206)|null|
+|**2026-07-11**|**On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation**|Cristian Axenie Team|[2607.10172](http://arxiv.org/abs/2607.10172)|null|
+|**2026-07-11**|**TAC-LOCO: Unified Whole-Body Control for Quadrupedal TACtile-Informed LOCO-Manipulation**|Yan Gu Team|[2607.10132](http://arxiv.org/abs/2607.10132)|null|
+|**2026-07-10**|**Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning**|Di Hu Team|[2607.09866](http://arxiv.org/abs/2607.09866)|**[link](https://gewu-lab.github.io/Robo-ValueRL/)**|
+|**2026-07-10**|**More Structure, Not More Capacity: Object-Centric Representations for Visuomotor Imitation Learning**|Alap Kshirsagar Team|[2607.09825](http://arxiv.org/abs/2607.09825)|null|
+|**2026-07-10**|**TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging**|Yong Liu Team|[2607.09818](http://arxiv.org/abs/2607.09818)|null|
 |**2026-07-10**|**B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations**|Yilun Du Team|[2607.09648](http://arxiv.org/abs/2607.09648)|null|
 |**2026-07-10**|**One-Shot Multimodal Learning from Demonstration with Force-Constrained Elastic Maps**|Reza Azadeh Team|[2607.09515](http://arxiv.org/abs/2607.09515)|null|
 |**2026-07-10**|**PhysV2A: Reachability-Gated and Semantic-Mask-Constrained Feasibility Completion for Video-to-Robot Manipulation**|Chenguang Yang Team|[2607.09365](http://arxiv.org/abs/2607.09365)|null|
@@ -2885,6 +2897,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**3D-DefectBench: A Controlled Factorial Study of Vision-Language Model Evaluation Pipelines for Fine-Grained 3D Generation Defects**|Zeyu Zheng Team|[2607.10826](http://arxiv.org/abs/2607.10826)|null|
+|**2026-07-12**|**Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos**|Tuka Alhanai Team|[2607.10797](http://arxiv.org/abs/2607.10797)|null|
+|**2026-07-12**|**Mixture of Cognitive Experts in Large Vision-Language Models**|Ngai-Man Cheung Team|[2607.10796](http://arxiv.org/abs/2607.10796)|null|
+|**2026-07-12**|**Detecting AI-Generated Video: A Vision-Language Dual-View Survey**|Yuhan Liu Team|[2607.10787](http://arxiv.org/abs/2607.10787)|null|
+|**2026-07-12**|**Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation**|Hong Zhang Team|[2607.10744](http://arxiv.org/abs/2607.10744)|null|
+|**2026-07-12**|**Answer-Conditioned Chain-of-Thought Distillation for Few-Shot Industrial Vision with Small VLMs**|Shubham Rao Team|[2607.10666](http://arxiv.org/abs/2607.10666)|null|
+|**2026-07-12**|**Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models**|Tianzhu Zhang Team|[2607.10640](http://arxiv.org/abs/2607.10640)|null|
+|**2026-07-12**|**WasteAssistant: Regulation-Guided Visual Question Answering Framework for Intelligent Waste Segregation and Sustainable Managemen**|Praveen Kumar Chandaliya Team|[2607.10610](http://arxiv.org/abs/2607.10610)|null|
+|**2026-07-12**|**Anomalous Frame Detection by Grouping Frame Similarities between Two Videos Computed by Vision-Language Model to Extract Expert Workers' Unique Actions**|Nobutaka Kimura Team|[2607.10598](http://arxiv.org/abs/2607.10598)|null|
+|**2026-07-11**|**SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding**|Sai Rajeswar Mudumba Team|[2607.10400](http://arxiv.org/abs/2607.10400)|null|
+|**2026-07-11**|**Benchmarking the Robustness of Foundation Models for Mammography under Domain Shift**|Ben Glocker Team|[2607.10358](http://arxiv.org/abs/2607.10358)|null|
+|**2026-07-11**|**Imperceptible and Reversible Adversarial Examples against Vision-Language Models for Privacy Protection**|Leo Yu Zhang Team|[2607.10329](http://arxiv.org/abs/2607.10329)|null|
+|**2026-07-11**|**ChartSync: A Benchmark for Visuo-Logical Cascading Chart Editing**|Haipang Wu Team|[2607.10301](http://arxiv.org/abs/2607.10301)|null|
+|**2026-07-11**|**Devil in the Lens: Analyzing and Defending Physical Prompt Injection Against Vision-Language Models on Wearable Devices**|Yan Long Team|[2607.10269](http://arxiv.org/abs/2607.10269)|null|
+|**2026-07-11**|**What Does Your Short-Answer VQA Score Actually Measure? Evaluator-Dependent Instability in Multimodal Short-Answer Benchmarks**|Yawen Li Team|[2607.10240](http://arxiv.org/abs/2607.10240)|null|
+|**2026-07-11**|**On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation**|Cristian Axenie Team|[2607.10172](http://arxiv.org/abs/2607.10172)|null|
+|**2026-07-11**|**TextGaze: Prompting Gaze Target Estimation with Textual Scene Cues**|Xun Yang Team|[2607.10130](http://arxiv.org/abs/2607.10130)|**[link](https://github.com/idremo/TextGaze-IJCAI2026)**|
+|**2026-07-11**|**WeaveEarth: Structured Evidence Construction and Reasoning for Training-Free UHR Remote Sensing Understanding**|Jianhui li Team|[2607.10120](http://arxiv.org/abs/2607.10120)|null|
+|**2026-07-10**|**Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning**|Kaushik Das Team|[2607.09962](http://arxiv.org/abs/2607.09962)|null|
 |**2026-07-10**|**Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models**|Miguel P. Eckstein Team|[2607.09654](http://arxiv.org/abs/2607.09654)|null|
 |**2026-07-10**|**TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models**|Ziyu Zhou Team|[2607.09562](http://arxiv.org/abs/2607.09562)|null|
 |**2026-07-10**|**The Count Is There, but Misaligned: Understanding and Correcting Counting Failures in VLMs**|Kentaro Inui Team|[2607.09544](http://arxiv.org/abs/2607.09544)|null|
@@ -7695,6 +7726,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models**|Daniel Rakita Team|[2607.10655](http://arxiv.org/abs/2607.10655)|null|
+|**2026-07-11**|**SUREFlow: State-space Uncertainty-aware REsidual Flow Matching for Robust Robot Manipulation**|Sangtae Ahn Team|[2607.10504](http://arxiv.org/abs/2607.10504)|null|
+|**2026-07-11**|**ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception**|Xinlei Chen Team|[2607.10180](http://arxiv.org/abs/2607.10180)|null|
+|**2026-07-11**|**On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation**|Cristian Axenie Team|[2607.10172](http://arxiv.org/abs/2607.10172)|null|
+|**2026-07-10**|**TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging**|Yong Liu Team|[2607.09818](http://arxiv.org/abs/2607.09818)|null|
 |**2026-07-10**|**PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers**|Zudong Li Team|[2607.09590](http://arxiv.org/abs/2607.09590)|null|
 |**2026-07-10**|**Can the Cloud Drive? Infrastructure Feasibility of Offloading Autonomous Driving Across 5G and 6G**|Seongjin Choi Team|[2607.09045](http://arxiv.org/abs/2607.09045)|null|
 |**2026-07-10**|**Learning More from Less: Reinforcement Learning from Hindsight**|Zhang-Wei Hong Team|[2607.09042](http://arxiv.org/abs/2607.09042)|null|
@@ -9102,6 +9138,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors**|Mingguo Zhao Team|[2607.10815](http://arxiv.org/abs/2607.10815)|null|
 |**2026-07-10**|**Effects of Robotic Touch on Older Users During Walking Guidance by a Humanoid Robot**|Katja Mombaur Team|[2607.09323](http://arxiv.org/abs/2607.09323)|null|
 |**2026-07-09**|**ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation**|Davis Rempe Team|[2607.08741](http://arxiv.org/abs/2607.08741)|null|
 |**2026-07-08**|**In vivo feasibility study of humanoid robots in surgery**|Michael Yip Team|[2607.07972](http://arxiv.org/abs/2607.07972)|null|
