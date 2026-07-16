@@ -1,4 +1,4 @@
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation**|Colm Prendergast Team|[2607.14021](http://arxiv.org/abs/2607.14021)|null|
+|**2026-07-15**|**Discriminative Barrier Functions for Safe Adversarial Imitation Learning from Observation**|Tyler Han Team|[2607.13938](http://arxiv.org/abs/2607.13938)|null|
+|**2026-07-15**|**Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning**|Yanjie Li Team|[2607.13818](http://arxiv.org/abs/2607.13818)|null|
+|**2026-07-15**|**Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration**|Bernhard Johannes Schmitt Team|[2607.13696](http://arxiv.org/abs/2607.13696)|null|
+|**2026-07-15**|**Joint On-and-Off Policy Learning for Vision-and-Language Navigation**|Liang Lin Team|[2607.13461](http://arxiv.org/abs/2607.13461)|null|
+|**2026-07-15**|**Learning Physics-Guided Residual Dynamics for Deformable Object Simulation**|Yunzhu Li Team|[2607.13451](http://arxiv.org/abs/2607.13451)|**[link](https://pgrd-robot.github.io/)**|
+|**2026-07-15**|**Distributionally Robust and Safe Imitation Learning**|Naira Hovakimyan Team|[2607.13436](http://arxiv.org/abs/2607.13436)|null|
+|**2026-07-15**|**Where Should RL Post-Training Compute Go? Model Size, Search, Learning, and Feedback**|Odej Kao Team|[2607.13389](http://arxiv.org/abs/2607.13389)|null|
 |**2026-07-14**|**DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation**|Mingyu Ding Team|[2607.13033](http://arxiv.org/abs/2607.13033)|**[link](https://dense-reward.github.io/)**|
 |**2026-07-14**|**ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning**|Dacheng Tao Team|[2607.12931](http://arxiv.org/abs/2607.12931)|null|
 |**2026-07-14**|**UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies**|Hongyang Li Team|[2607.12892](http://arxiv.org/abs/2607.12892)|null|
@@ -2914,13 +2922,25 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-14**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Shoaib Ehsan Team|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
+|**2026-07-15**|**SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning**|Ming Hu Team|[2607.13931](http://arxiv.org/abs/2607.13931)|null|
+|**2026-07-15**|**S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving**|Liping Lu Team|[2607.13926](http://arxiv.org/abs/2607.13926)|null|
+|**2026-07-15**|**Fine-grained CLIP fine-tuning with self-annotated region alignment**|Janet H. Hsiao Team|[2607.13661](http://arxiv.org/abs/2607.13661)|null|
+|**2026-07-15**|**Semantic Anchoring for Robotic Action Representations**|Yizhou Wang Team|[2607.13597](http://arxiv.org/abs/2607.13597)|null|
+|**2026-07-15**|**GHR-VLM: Making Zero-Shot Transit Video Analytics Realizable with Grounded Hybrid Reasoning**|Ruimin Ke Team|[2607.13569](http://arxiv.org/abs/2607.13569)|null|
+|**2026-07-15**|**ThinkBLOX: 3D Indoor Scene Generation with Progressive Reasoning**|Jing Liao Team|[2607.13539](http://arxiv.org/abs/2607.13539)|null|
+|**2026-07-15**|**Attention-Free and Lightweight Token Reduction for Efficient Vision-Language Models**|Shuguo Zhuo Team|[2607.13500](http://arxiv.org/abs/2607.13500)|null|
+|**2026-07-15**|**Joint On-and-Off Policy Learning for Vision-and-Language Navigation**|Liang Lin Team|[2607.13461](http://arxiv.org/abs/2607.13461)|null|
+|**2026-07-15**|**Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment**|Unnat Jain Team|[2607.13429](http://arxiv.org/abs/2607.13429)|**[link](https://github.com/dwipddalal/Anchor-Align)**|
+|**2026-07-15**|**Self-Improving is Often Sudden: Enlightenment-style Finetuning for Large-Scale Models**|Feng-Lei Fan Team|[2607.13395](http://arxiv.org/abs/2607.13395)|null|
+|**2026-07-14**|**Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management**|H. Oliver Gao Team|[2607.13239](http://arxiv.org/abs/2607.13239)|null|
+|**2026-07-14**|**How You Ask Shapes What You Get: Auditing Breast-Cancer Misinformation in TikTok Search**|Amir Ghasemian Team|[2607.13147](http://arxiv.org/abs/2607.13147)|null|
+|**2026-07-15**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Shoaib Ehsan Team|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
 |**2026-07-14**|**Visual Access Boundaries in Vision-Language Model Reasoning**|Yutaka Matsuo Team|[2607.12815](http://arxiv.org/abs/2607.12815)|null|
 |**2026-07-14**|**CoRe: A Comprehensive Framework for Cross-Image Comparative Reasoning in Vision-Language Models**|Yihong Gong Team|[2607.12786](http://arxiv.org/abs/2607.12786)|null|
 |**2026-07-14**|**VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression**|Nenghai Yu Team|[2607.12756](http://arxiv.org/abs/2607.12756)|null|
@@ -7770,12 +7790,17 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving**|Liping Lu Team|[2607.13926](http://arxiv.org/abs/2607.13926)|null|
+|**2026-07-15**|**Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning**|Yanjie Li Team|[2607.13818](http://arxiv.org/abs/2607.13818)|null|
+|**2026-07-15**|**UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following**|Keji He Team|[2607.13621](http://arxiv.org/abs/2607.13621)|null|
+|**2026-07-15**|**Semantic Anchoring for Robotic Action Representations**|Yizhou Wang Team|[2607.13597](http://arxiv.org/abs/2607.13597)|null|
+|**2026-07-15**|**Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment**|Unnat Jain Team|[2607.13429](http://arxiv.org/abs/2607.13429)|**[link](https://github.com/dwipddalal/Anchor-Align)**|
 |**2026-07-14**|**ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning**|Longjun Liu Team|[2607.12992](http://arxiv.org/abs/2607.12992)|null|
 |**2026-07-14**|**ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning**|Dacheng Tao Team|[2607.12931](http://arxiv.org/abs/2607.12931)|null|
 |**2026-07-14**|**Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference**|Meng Li Team|[2607.12659](http://arxiv.org/abs/2607.12659)|null|
@@ -9194,12 +9219,14 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal**|Marco Hutter Team|[2607.13472](http://arxiv.org/abs/2607.13472)|**[link](https://egohtr.github.io)**|
+|**2026-07-07**|**A Bayesian framework for the uncanny valley in humanoid robot design**|Hideyoshi Yanagisawa Team|[2607.13060](http://arxiv.org/abs/2607.13060)|null|
 |**2026-07-14**|**Vision-Based Dribbling for Humanoid Soccer via Privileged Representation Learning**|Luca Iocchi Team|[2607.12702](http://arxiv.org/abs/2607.12702)|null|
 |**2026-07-13**|**Requirement-Driven Design of Whole-Body Social Tactile Sensing via Virtual Human-Robot Interaction**|Wenzhen Yuan Team|[2607.11690](http://arxiv.org/abs/2607.11690)|null|
 |**2026-07-14**|**DA-Nav: Direction-Aware City-Scale Vision-Language Navigation**|Zhulin An Team|[2607.11638](http://arxiv.org/abs/2607.11638)|null|
@@ -9761,12 +9788,13 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation**|Colm Prendergast Team|[2607.14021](http://arxiv.org/abs/2607.14021)|null|
 |**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Preston Culbertson Team|[2607.11874](http://arxiv.org/abs/2607.11874)|**[link](https://yunhaifeng.com/REGRIND)**|
 |**2026-07-13**|**Towards Human-level Dexterous Teleoperation**|Siyuan Huang Team|[2607.11481](http://arxiv.org/abs/2607.11481)|**[link](https://bigai-dex.github.io/blog/teledexter/)**|
 |**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Jianan Wang Team|[2607.11270](http://arxiv.org/abs/2607.11270)|null|
@@ -10203,5 +10231,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
