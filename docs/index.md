@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-19**|**Asynchronous Multimodal Diffusion Policy Composition via Latency-Aware Guidance Fusion**|Haoshu Fang Team|[2607.17257](http://arxiv.org/abs/2607.17257)|null|
+|**2026-07-18**|**Scalable Causal Imitation Learning**|Elias Bareinboim Team|[2607.17003](http://arxiv.org/abs/2607.17003)|null|
+|**2026-07-18**|**User-Driven Learning from Demonstration: A Trajectory and Impedance Learning Method**|Mehrdad R. Kermani Team|[2607.16998](http://arxiv.org/abs/2607.16998)|null|
+|**2026-07-18**|**Scene-SAM3D: Multi-View Scene Asset Generation Without Fine-Tuning**|Xin Tan Team|[2607.16805](http://arxiv.org/abs/2607.16805)|null|
+|**2026-07-17**|**Foresight Residual RL for Long-Horizon Robot Manipulation with Vision-Language-Action Models**|Abdeslam Boularias Team|[2607.16506](http://arxiv.org/abs/2607.16506)|**[link](https://jaysparrow.github.io/foresight-residual-rl)**|
+|**2026-07-17**|**When to Plan: Learning to Select Between Reactive Control and Deliberative Planning**|Josiah P. Hanna Team|[2607.16421](http://arxiv.org/abs/2607.16421)|null|
 |**2026-07-17**|**Handroid: Bridging Dexterous Hand and Humanoid**|Mingyu Ding Team|[2607.16187](http://arxiv.org/abs/2607.16187)|**[link](https://handroid.org)**|
 |**2026-07-17**|**Dynamic Constraint Reconstruction Based Control Barrier Functions for Safety-Critical Control of High-Dimensional Manipulators**|Xiaofeng Tao Team|[2607.15961](http://arxiv.org/abs/2607.15961)|null|
 |**2026-07-17**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Hongliang Li Team|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
@@ -2940,6 +2946,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-19**|**LenGuard-GPC: Length Guarding with Guided-Prompt Consistency for Spatial Reasoning Reinforce Learning**|Jing Tang Team|[2607.17243](http://arxiv.org/abs/2607.17243)|null|
+|**2026-07-19**|**Searching for Task-Specific Vision Paths: Evolutionary Block Pruning Across Vision-Language Models**|Tarun Tomar Team|[2607.17052](http://arxiv.org/abs/2607.17052)|**[link](https://github.com/TarunTomar122/vision-pathways)**|
+|**2026-07-19**|**EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding**|Jiwen Lu Team|[2607.17050](http://arxiv.org/abs/2607.17050)|null|
+|**2026-07-18**|**G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation**|Lihua Xie Team|[2607.16956](http://arxiv.org/abs/2607.16956)|null|
+|**2026-07-18**|**Look Clearly Before Answering: Mitigating Hallucinations in LVLMs via Saliency-Driven Perceptual Realignment**|Liang Zhang Team|[2607.16841](http://arxiv.org/abs/2607.16841)|null|
+|**2026-07-18**|**FUSAR-R1: A Large-Scale Reasoning Model for Intelligent Interpretation of SAR Images**|Haipeng Wang Team|[2607.16819](http://arxiv.org/abs/2607.16819)|null|
+|**2026-07-18**|**Can Experts Adapt Without Training? On Test-Time Modality Generalization in MVLMs**|Mohammad Yaqub Team|[2607.16726](http://arxiv.org/abs/2607.16726)|null|
+|**2026-07-18**|**Orientation Reading by Production Vision-Language Models on Optotype Charts: A Controlled Multi-Model Evaluation Across Reasoning Modes, Prompts, and Access Modalities**|Bin Hu Team|[2607.16595](http://arxiv.org/abs/2607.16595)|null|
+|**2026-07-18**|**Autonomous VR-Based Risk Detection for Situational Awareness in Dangerous Settings**|Cynthia Matuszek Team|[2607.16582](http://arxiv.org/abs/2607.16582)|null|
+|**2026-07-17**|**One Modality to Forget Them All: Enhancing Cross-Modal Unlearning in Vision-Language Models**|Ning Wang Team|[2607.16442](http://arxiv.org/abs/2607.16442)|null|
+|**2026-07-17**|**PhysAgent: Reflective Agentic Physics Control for Physically Plausible Video Generation**|Yu-Kun Lai Team|[2607.16355](http://arxiv.org/abs/2607.16355)|**[link](https://iapple233.github.io/PhysAgent)**|
 |**2026-07-17**|**Vision-Language Assistant for Emotional Reactions to Risky Driving**|Zhengzhong Tu Team|[2607.16181](http://arxiv.org/abs/2607.16181)|null|
 |**2026-07-17**|**Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs**|Pranava Madhyastha Team|[2607.16105](http://arxiv.org/abs/2607.16105)|null|
 |**2026-07-17**|**How Do VLMs Fail? Vision-Operation Misalignment in Compositional VQA**|Zhengchen Zhang Team|[2607.16094](http://arxiv.org/abs/2607.16094)|null|
@@ -7835,6 +7852,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-18**|**What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning**|Ross Greer Team|[2607.16938](http://arxiv.org/abs/2607.16938)|null|
+|**2026-07-18**|**PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution**|Liang Lin Team|[2607.16636](http://arxiv.org/abs/2607.16636)|null|
+|**2026-07-17**|**Foresight Residual RL for Long-Horizon Robot Manipulation with Vision-Language-Action Models**|Abdeslam Boularias Team|[2607.16506](http://arxiv.org/abs/2607.16506)|**[link](https://jaysparrow.github.io/foresight-residual-rl)**|
 |**2026-07-17**|**JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models**|Junwu Xiong Team|[2607.16074](http://arxiv.org/abs/2607.16074)|null|
 |**2026-07-17**|**AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning**|Xiaobo Wang Team|[2607.15714](http://arxiv.org/abs/2607.15714)|null|
 |**2026-07-17**|**IMBench: A Benchmark for Intuitive Robotic Manipulation**|Devesh K. Jha Team|[2607.15641](http://arxiv.org/abs/2607.15641)|**[link](https://imbench.org/)**|
@@ -9279,6 +9299,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-19**|**Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction**|Peshala Jayasekara Team|[2607.17042](http://arxiv.org/abs/2607.17042)|null|
+|**2026-07-13**|**Algorithmic Accuracy as a Motivational Driver in Robot-Mediated Learning: A Comparative Study of Cross-Correlation and CNN-Based Sound Detection in an Interactive Quiz Game**|Niels Pinkwart Team|[2607.16299](http://arxiv.org/abs/2607.16299)|null|
 |**2026-07-17**|**Handroid: Bridging Dexterous Hand and Humanoid**|Mingyu Ding Team|[2607.16187](http://arxiv.org/abs/2607.16187)|**[link](https://handroid.org)**|
 |**2026-07-17**|**PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction**|Simon See Team|[2607.15579](http://arxiv.org/abs/2607.15579)|null|
 |**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Jingbo Wang Team|[2607.15163](http://arxiv.org/abs/2607.15163)|null|
