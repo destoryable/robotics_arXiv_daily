@@ -2968,6 +2968,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation**|Yue Yao Team|[2607.19288](http://arxiv.org/abs/2607.19288)|null|
+|**2026-07-21**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Yueming Jin Team|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
 |**2026-07-21**|**Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency**|Jinrui Nan Team|[2607.19194](http://arxiv.org/abs/2607.19194)|null|
 |**2026-07-21**|**One Model, Many Graphs: Learning over Attributed Graphs across Heterogeneous Modalities with Vision-Language Models**|Qiaoyu Tan Team|[2607.19128](http://arxiv.org/abs/2607.19128)|null|
 |**2026-07-21**|**Context-structured Video Anomaly Detection with Large Vision-Language Models**|Jeonghoon Mo Team|[2607.19077](http://arxiv.org/abs/2607.19077)|null|
