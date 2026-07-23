@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -9348,6 +9348,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning**|Jean Chagas Vaz Team|[2607.20399](http://arxiv.org/abs/2607.20399)|null|
+|**2026-07-22**|**Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids**|Tran Nguyen Le Team|[2607.20345](http://arxiv.org/abs/2607.20345)|null|
+|**2026-07-22**|**ReferTrack: Referring Then Tracking for Embodied Visual Tracking**|Hong Zhang Team|[2607.20061](http://arxiv.org/abs/2607.20061)|null|
 |**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Igor Farkaš Team|[2607.18737](http://arxiv.org/abs/2607.18737)|null|
 |**2026-07-20**|**Optimization of sim-to-real transfer in the humanoid robot NICO**|Igor Farkaš Team|[2607.18210](http://arxiv.org/abs/2607.18210)|null|
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Igor Farkaš Team|[2607.18197](http://arxiv.org/abs/2607.18197)|null|
