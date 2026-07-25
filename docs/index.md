@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.07.24
+## Updated on 2026.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Jiachen Li Team|[2607.21588](http://arxiv.org/abs/2607.21588)|**[link](https://axisaiorg.github.io/AXIS-V1/)**|
+|**2026-07-23**|**Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation**|Lawson L. S. Wong Team|[2607.21582](http://arxiv.org/abs/2607.21582)|null|
 |**2026-07-23**|**TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects**|Tian Xia Team|[2607.21071](http://arxiv.org/abs/2607.21071)|null|
 |**2026-07-23**|**GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning**|Yukiyasu Domae Team|[2607.21049](http://arxiv.org/abs/2607.21049)|null|
 |**2026-07-23**|**TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation**|Yu Sun Team|[2607.21017](http://arxiv.org/abs/2607.21017)|null|
@@ -2966,6 +2968,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**3D-Aware VLMs with Implicit and Explicit Geometries**|Gongjie Zhang Team|[2607.21595](http://arxiv.org/abs/2607.21595)|null|
+|**2026-07-23**|**MIRROR: Learning from the Other View for Multi-Modal Reasoning**|Xuezhe Ma Team|[2607.21552](http://arxiv.org/abs/2607.21552)|null|
 |**2026-07-23**|**Towards Privacy-Preserving Federated Prompt Tuning under Data Heterogeneity: A Subspace-Decomposed Expert Approach**|Zhiming Zheng Team|[2607.21417](http://arxiv.org/abs/2607.21417)|null|
 |**2026-07-23**|**When Are Reasoning-Based Guardrails Not Efficient? ResponseGuard: A Fast Vision-Language Guard for Real-Time Moderation**|Dongbin Na Team|[2607.21401](http://arxiv.org/abs/2607.21401)|**[link](https://ndb796.github.io/ResponseGuard)**|
 |**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Verna Dankers Team|[2607.21155](http://arxiv.org/abs/2607.21155)|null|
@@ -7926,6 +7930,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Jiachen Li Team|[2607.21588](http://arxiv.org/abs/2607.21588)|**[link](https://axisaiorg.github.io/AXIS-V1/)**|
 |**2026-07-23**|**HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving**|Liulong Ma Team|[2607.20988](http://arxiv.org/abs/2607.20988)|null|
 |**2026-07-22**|**Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids**|Tran Nguyen Le Team|[2607.20345](http://arxiv.org/abs/2607.20345)|null|
 |**2026-07-22**|**ReferTrack: Referring Then Tracking for Embodied Visual Tracking**|Hong Zhang Team|[2607.20061](http://arxiv.org/abs/2607.20061)|null|
