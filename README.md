@@ -1,4 +1,4 @@
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design**|Shuran Song Team|[2607.25798](http://arxiv.org/abs/2607.25798)|**[link](https://transformer-transformer.github.io)**|
+|**2026-07-28**|**Tri-Manual Visuomotor Imitation Learning of Robot Policies**|Weiming Zhi Team|[2607.25731](http://arxiv.org/abs/2607.25731)|null|
+|**2026-07-28**|**When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning**|Yang Gao Team|[2607.25593](http://arxiv.org/abs/2607.25593)|null|
+|**2026-07-28**|**P3: Probabilistic Policy Propagation for Stable VAE-Based Robot Learning**|Yue Gao Team|[2607.25541](http://arxiv.org/abs/2607.25541)|null|
+|**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Fan Li Team|[2607.25516](http://arxiv.org/abs/2607.25516)|null|
+|**2026-07-28**|**Decompose and Reorganize: Planning with Primitives and Visuomotor Policies Learned from Demonstrations**|Jia Pan Team|[2607.25397](http://arxiv.org/abs/2607.25397)|null|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
 |**2026-07-27**|**NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation**|Peyman Moghadam Team|[2607.24538](http://arxiv.org/abs/2607.24538)|null|
 |**2026-07-27**|**ArmnetBench v0.1: Parallel Real-World Evaluation of Manipulation Policies on a Low-Cost Arm Farm**|Ville Kuosmanen Team|[2607.24481](http://arxiv.org/abs/2607.24481)|**[link](https://huggingface.co/collections/armnet/armnetbench-v01)**|
@@ -2988,12 +2994,21 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Fine-Grained Food Image Understanding via Target-Aware Data Alignment**|Fengqing Zhu Team|[2607.25794](http://arxiv.org/abs/2607.25794)|null|
+|**2026-07-28**|**Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications**|Chi Zhang Team|[2607.25642](http://arxiv.org/abs/2607.25642)|null|
+|**2026-07-28**|**Forensic Reproducibility Audit of a Radiology Vision-Language Model Benchmark: From Intended Protocol to Released Artifact**|Mateusz Kozłowski Team|[2607.25589](http://arxiv.org/abs/2607.25589)|**[link](https://doi.org/10.5281/zenodo.21629849)**|
+|**2026-07-28**|**Argus-Unified: Towards A Compact and Economical Unified Model for Image Understanding and Generation**|Lingjuan Lyu Team|[2607.25527](http://arxiv.org/abs/2607.25527)|null|
+|**2026-07-28**|**Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering**|Fabio Roli Team|[2607.25479](http://arxiv.org/abs/2607.25479)|null|
+|**2026-07-28**|**Towards Reliable Stain Transfer: An Iterative Data-Model Co-Optimization Framework Based on Multimodal Expert-Guided Assessment**|Qingli Li Team|[2607.25393](http://arxiv.org/abs/2607.25393)|null|
+|**2026-07-27**|**IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation**|Tommaso Campari Team|[2607.25106](http://arxiv.org/abs/2607.25106)|**[link](https://github.com/JelinR/IMPRINT)**|
+|**2026-07-27**|**Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model**|Yan Lu Team|[2607.24904](http://arxiv.org/abs/2607.24904)|**[link](https://microsoft.github.io/Mage)**|
+|**2026-07-27**|**Harm is not Universal: Community-Specific Toxicity Detection is Urgently Needed**|Cecily Morrison Team|[2607.24898](http://arxiv.org/abs/2607.24898)|null|
 |**2026-07-27**|**KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability**|Balaraman Ravindran Team|[2607.24730](http://arxiv.org/abs/2607.24730)|null|
 |**2026-07-27**|**ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams**|Eduard Dragut Team|[2607.24707](http://arxiv.org/abs/2607.24707)|null|
 |**2026-07-27**|**Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels**|Yu Xiao Team|[2607.24651](http://arxiv.org/abs/2607.24651)|null|
@@ -7995,12 +8010,14 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Fan Li Team|[2607.25516](http://arxiv.org/abs/2607.25516)|null|
+|**2026-07-28**|**CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model**|Seokhyun Kim Team|[2607.25487](http://arxiv.org/abs/2607.25487)|**[link](https://github.com/BrainJellyPie/CoTinyVLA)**|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
 |**2026-07-27**|**τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision**|Wenjuan Han Team|[2607.24485](http://arxiv.org/abs/2607.24485)|null|
 |**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Judy Hoffman Team|[2607.24159](http://arxiv.org/abs/2607.24159)|**[link](https://deva-model.github.io/)**|
@@ -9464,7 +9481,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## Humanoid
 
@@ -10050,7 +10067,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## Dexterous
 
@@ -10499,5 +10516,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 

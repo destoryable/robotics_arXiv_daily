@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design**|Shuran Song Team|[2607.25798](http://arxiv.org/abs/2607.25798)|**[link](https://transformer-transformer.github.io)**|
+|**2026-07-28**|**Tri-Manual Visuomotor Imitation Learning of Robot Policies**|Weiming Zhi Team|[2607.25731](http://arxiv.org/abs/2607.25731)|null|
+|**2026-07-28**|**When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning**|Yang Gao Team|[2607.25593](http://arxiv.org/abs/2607.25593)|null|
+|**2026-07-28**|**P3: Probabilistic Policy Propagation for Stable VAE-Based Robot Learning**|Yue Gao Team|[2607.25541](http://arxiv.org/abs/2607.25541)|null|
+|**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Fan Li Team|[2607.25516](http://arxiv.org/abs/2607.25516)|null|
+|**2026-07-28**|**Decompose and Reorganize: Planning with Primitives and Visuomotor Policies Learned from Demonstrations**|Jia Pan Team|[2607.25397](http://arxiv.org/abs/2607.25397)|null|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
 |**2026-07-27**|**NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation**|Peyman Moghadam Team|[2607.24538](http://arxiv.org/abs/2607.24538)|null|
 |**2026-07-27**|**ArmnetBench v0.1: Parallel Real-World Evaluation of Manipulation Policies on a Low-Cost Arm Farm**|Ville Kuosmanen Team|[2607.24481](http://arxiv.org/abs/2607.24481)|**[link](https://huggingface.co/collections/armnet/armnetbench-v01)**|
@@ -2985,6 +2991,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Fine-Grained Food Image Understanding via Target-Aware Data Alignment**|Fengqing Zhu Team|[2607.25794](http://arxiv.org/abs/2607.25794)|null|
+|**2026-07-28**|**Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications**|Chi Zhang Team|[2607.25642](http://arxiv.org/abs/2607.25642)|null|
+|**2026-07-28**|**Forensic Reproducibility Audit of a Radiology Vision-Language Model Benchmark: From Intended Protocol to Released Artifact**|Mateusz Kozłowski Team|[2607.25589](http://arxiv.org/abs/2607.25589)|**[link](https://doi.org/10.5281/zenodo.21629849)**|
+|**2026-07-28**|**Argus-Unified: Towards A Compact and Economical Unified Model for Image Understanding and Generation**|Lingjuan Lyu Team|[2607.25527](http://arxiv.org/abs/2607.25527)|null|
+|**2026-07-28**|**Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering**|Fabio Roli Team|[2607.25479](http://arxiv.org/abs/2607.25479)|null|
+|**2026-07-28**|**Towards Reliable Stain Transfer: An Iterative Data-Model Co-Optimization Framework Based on Multimodal Expert-Guided Assessment**|Qingli Li Team|[2607.25393](http://arxiv.org/abs/2607.25393)|null|
+|**2026-07-27**|**IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation**|Tommaso Campari Team|[2607.25106](http://arxiv.org/abs/2607.25106)|**[link](https://github.com/JelinR/IMPRINT)**|
+|**2026-07-27**|**Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model**|Yan Lu Team|[2607.24904](http://arxiv.org/abs/2607.24904)|**[link](https://microsoft.github.io/Mage)**|
+|**2026-07-27**|**Harm is not Universal: Community-Specific Toxicity Detection is Urgently Needed**|Cecily Morrison Team|[2607.24898](http://arxiv.org/abs/2607.24898)|null|
 |**2026-07-27**|**KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability**|Balaraman Ravindran Team|[2607.24730](http://arxiv.org/abs/2607.24730)|null|
 |**2026-07-27**|**ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams**|Eduard Dragut Team|[2607.24707](http://arxiv.org/abs/2607.24707)|null|
 |**2026-07-27**|**Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels**|Yu Xiao Team|[2607.24651](http://arxiv.org/abs/2607.24651)|null|
@@ -7990,6 +8005,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models**|Fan Li Team|[2607.25516](http://arxiv.org/abs/2607.25516)|null|
+|**2026-07-28**|**CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model**|Seokhyun Kim Team|[2607.25487](http://arxiv.org/abs/2607.25487)|**[link](https://github.com/BrainJellyPie/CoTinyVLA)**|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
 |**2026-07-27**|**τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision**|Wenjuan Han Team|[2607.24485](http://arxiv.org/abs/2607.24485)|null|
 |**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Judy Hoffman Team|[2607.24159](http://arxiv.org/abs/2607.24159)|**[link](https://deva-model.github.io/)**|
