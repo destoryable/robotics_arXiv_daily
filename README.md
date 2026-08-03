@@ -1,4 +1,4 @@
-## Updated on 2026.08.02
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning**|Gerhard Neumann Team|[2607.29622](http://arxiv.org/abs/2607.29622)|null|
+|**2026-07-31**|**When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning**|Dylan J. Foster Team|[2607.29617](http://arxiv.org/abs/2607.29617)|null|
+|**2026-07-31**|**WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning**|Xipeng Qiu Team|[2607.29613](http://arxiv.org/abs/2607.29613)|null|
+|**2026-07-31**|**Safe Vision Language Action Models via Barrier Enhanced Flow Matching**|Donald Ebeigbe Team|[2607.29569](http://arxiv.org/abs/2607.29569)|null|
+|**2026-07-31**|**STAGE: STyle-controllable Action GEneration for personalized autonomous driving**|Panfeng Huang Team|[2607.29517](http://arxiv.org/abs/2607.29517)|null|
+|**2026-07-31**|**Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration**|Martin Jagersand Team|[2607.29482](http://arxiv.org/abs/2607.29482)|null|
+|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**| BWM Team Team|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
+|**2026-07-31**|**TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation**|Kei Okada Team|[2607.29285](http://arxiv.org/abs/2607.29285)|null|
+|**2026-07-31**|**ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency**|Lei Zhu Team|[2607.29169](http://arxiv.org/abs/2607.29169)|**[link](https://github.com/SunnyYWD/ActFovea.git)**|
+|**2026-07-30**|**Mirror Learning**|Frank Wood Team|[2607.28737](http://arxiv.org/abs/2607.28737)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
 |**2026-07-30**|**QuantWAMs: Calibrating at the Right Granularity for World Action Models**|Lizhe Qi Team|[2607.28405](http://arxiv.org/abs/2607.28405)|null|
 |**2026-07-30**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Xingyu Chen Team|[2607.28394](http://arxiv.org/abs/2607.28394)|null|
@@ -3016,12 +3026,24 @@
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20260802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks**|Rachel Rudinger Team|[2607.29585](http://arxiv.org/abs/2607.29585)|null|
+|**2026-07-31**|**MoRoute: Dynamic Routing for In-Context Multimodal Video Generation**|Jing Li Team|[2607.29545](http://arxiv.org/abs/2607.29545)|**[link](https://orange-3dv-team.github.io/MoRoute/)**|
+|**2026-07-31**|**QR-Structured Thermal Triggers for Targeted Semantic Attacks on Infrared Vision-Language Models**|Chengyin Hu Team|[2607.29445](http://arxiv.org/abs/2607.29445)|null|
+|**2026-07-31**|**Role-Break in Attention Heads: Understanding and Detecting Hallucinations in VLMs**|Ying Li Team|[2607.29412](http://arxiv.org/abs/2607.29412)|null|
+|**2026-07-31**|**SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning**|Irfan Hussain Team|[2607.29374](http://arxiv.org/abs/2607.29374)|null|
+|**2026-07-31**|**SatEdit: Mask-Conditioned Image Editing via VLM-Guided Segment Annotation**|Muhammad Ahmed Amer Team|[2607.29367](http://arxiv.org/abs/2607.29367)|null|
+|**2026-07-31**|**When Model Priors Conflict with Visual Evidence: Mitigating Commonsense-Driven Hallucinations by Selective Prior Calibration**|Wenjian Luo Team|[2607.29240](http://arxiv.org/abs/2607.29240)|null|
+|**2026-07-31**|**Locally Consistent Transductive Information Maximization for Few-Shot Remote Sensing Scene Classification**|Christophe De Vleeschouwer Team|[2607.29192](http://arxiv.org/abs/2607.29192)|null|
+|**2026-07-31**|**SciFigPlag-Bench: A Benchmark for Provenance-Aware Scientific Figure Plagiarism Detection**|Pengyuan Li Team|[2607.29124](http://arxiv.org/abs/2607.29124)|null|
+|**2026-07-31**|**Outcome-Guided Distillation: A Teacher-Student Framework to Advance VLM Reasoning in Autonomous Driving**|Yu Sun Team|[2607.29052](http://arxiv.org/abs/2607.29052)|null|
+|**2026-07-31**|**A Formalism-Aware Reward Loop for Handwritten UML-to-PlantUML Generation**|Adrian Psoch-Bajraktari Team|[2607.28987](http://arxiv.org/abs/2607.28987)|null|
+|**2026-07-31**|**Visual Distribution Anchoring for Efficient Prompt Tuning**|Seongjin Choi Team|[2607.28967](http://arxiv.org/abs/2607.28967)|null|
 |**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Derek Hoiem Team|[2607.28627](http://arxiv.org/abs/2607.28627)|**[link](https://github.com/avaxiao/ReToken)**|
 |**2026-07-30**|**OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models**|Lingpeng Kong Team|[2607.28609](http://arxiv.org/abs/2607.28609)|null|
 |**2026-07-30**|**ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs**|Hangting Ye Team|[2607.28538](http://arxiv.org/abs/2607.28538)|null|
@@ -8075,12 +8097,17 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning**|Xipeng Qiu Team|[2607.29613](http://arxiv.org/abs/2607.29613)|null|
+|**2026-07-31**|**FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling**|Shuai Wang Team|[2607.29596](http://arxiv.org/abs/2607.29596)|null|
+|**2026-07-31**|**Safe Vision Language Action Models via Barrier Enhanced Flow Matching**|Donald Ebeigbe Team|[2607.29569](http://arxiv.org/abs/2607.29569)|null|
+|**2026-07-31**|**ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency**|Lei Zhu Team|[2607.29169](http://arxiv.org/abs/2607.29169)|**[link](https://github.com/SunnyYWD/ActFovea.git)**|
+|**2026-07-30**|**When Unlearning Fails: Reliable Data Deletion under Post-Training in Agent Networks**|Liang Dong Team|[2607.28829](http://arxiv.org/abs/2607.28829)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
 |**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Shuo Feng Team|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
 |**2026-07-30**|**RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents**|Honguk Woo Team|[2607.27881](http://arxiv.org/abs/2607.27881)|null|
@@ -9559,12 +9586,13 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**Balancing of Humanoid with Object Mass: Trade-off Analyses and Lifting Control**|Joo H. Kim Team|[2607.29625](http://arxiv.org/abs/2607.29625)|null|
 |**2026-07-29**|**Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots**|Quan Nguyen Team|[2607.26567](http://arxiv.org/abs/2607.26567)|null|
 |**2026-07-27**|**Not Forgotten: Implementation and Evaluation of a Personalized Episodic Memory for the Humanoid Robot Head Kim**|Christian Becker-Asano Team|[2607.24190](http://arxiv.org/abs/2607.24190)|null|
 |**2026-07-27**|**A Case Study on the Acceptance of a Humanoid Robotic Head Employed in Three Public Spaces**|Christian Becker-Asano Team|[2607.24113](http://arxiv.org/abs/2607.24113)|null|
@@ -10146,7 +10174,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ary Setijadi Prihatmanto Team|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Lorenzo Natale Team|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 ## Dexterous
 
@@ -10599,5 +10627,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20260802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
