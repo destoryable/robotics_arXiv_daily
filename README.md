@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation**|Tieniu Tan Team|[2608.05042](http://arxiv.org/abs/2608.05042)|null|
 |**2026-08-05**|**RORA: Realistic Object Reconstruction with Articulation**|Yongseok Lee Team|[2608.04842](http://arxiv.org/abs/2608.04842)|null|
 |**2026-08-05**|**Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors**|Qifeng Yu Team|[2608.04673](http://arxiv.org/abs/2608.04673)|null|
 |**2026-08-05**|**MobileWAM: Bridging World Action Models to Mobile Manipulation with Chain-of-Foresight**|Yan Wang Team|[2608.04657](http://arxiv.org/abs/2608.04657)|null|
@@ -3059,6 +3060,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**OmniEdit-Bench: A Comprehensive Benchmark for Instruction-based Video Editing**|Hengshuang Zhao Team|[2608.05049](http://arxiv.org/abs/2608.05049)|null|
+|**2026-08-05**|**BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation**|Tieniu Tan Team|[2608.05042](http://arxiv.org/abs/2608.05042)|null|
 |**2026-08-05**|**Unleashing the Potential of Vision-Language Models for Generalizable AI-Generated Image Detection**|Xinping Gao Team|[2608.04935](http://arxiv.org/abs/2608.04935)|null|
 |**2026-08-05**|**Evaluating the Diagnostic Robustness of Vision-Language Models Under Visual and Textual Perturbations**|Heshaam Faili Team|[2608.04885](http://arxiv.org/abs/2608.04885)|null|
 |**2026-08-05**|**On the Effectiveness of Adaptation Strategies for VLM-Based Federated Learning in Remote Sensing**|Begüm Demir Team|[2608.04791](http://arxiv.org/abs/2608.04791)|null|
@@ -8215,6 +8218,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation**|Tieniu Tan Team|[2608.05042](http://arxiv.org/abs/2608.05042)|null|
 |**2026-08-05**|**Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models**|Ziyi Ye Team|[2608.04765](http://arxiv.org/abs/2608.04765)|null|
 |**2026-08-05**|**Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies**|Hui Xiong Team|[2608.04692](http://arxiv.org/abs/2608.04692)|null|
 |**2026-08-05**|**Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models**|Jian Cheng Team|[2608.04633](http://arxiv.org/abs/2608.04633)|null|
