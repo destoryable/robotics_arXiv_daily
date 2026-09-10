@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects**|Wenqiang Zhang Team|[2609.10243](http://arxiv.org/abs/2609.10243)|null|
+|**2026-09-09**|**Assembling Two Parts in One Hand**|Jie Song Team|[2609.10137](http://arxiv.org/abs/2609.10137)|**[link](https://ltbgbird.github.io/in-hand-assembly-page/)**|
+|**2026-09-09**|**HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy**|Qi Wang Team|[2609.09941](http://arxiv.org/abs/2609.09941)|null|
+|**2026-09-09**|**InstantMimic: A High Performance System for Learning Physics-based Skills in Seconds**|Jungdam Won Team|[2609.09821](http://arxiv.org/abs/2609.09821)|**[link](https://scripter36.github.io/projects/instantmimic/)**|
+|**2026-09-09**|**GTA-2: A Multi-VLM Framework for Synthesizing Robot Manipulation Skills via Grounded Task Axes**|Oliver Kroemer Team|[2609.09808](http://arxiv.org/abs/2609.09808)|null|
+|**2026-09-09**|**JEPA Policy: Diffusion-Free Imitation Learning via Paired Action and Future Representation Prediction**|Zhongpu Xia Team|[2609.09630](http://arxiv.org/abs/2609.09630)|**[link](https://github.com/jiejie567/JEPA-Policy)**|
+|**2026-09-09**|**Compact Visuotactile World Models for Lifting: Prediction, Reward Alignment, and Force Constraints**|Sida Peng Team|[2609.09597](http://arxiv.org/abs/2609.09597)|null|
+|**2026-09-09**|**Modality-Decoupled Federated Learning for Privacy-Preserving Embodied Intelligence in 6G**|Mohsen Guizani Team|[2609.09591](http://arxiv.org/abs/2609.09591)|null|
+|**2026-09-08**|**Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning**|Abeje Y. Mersha Team|[2609.09492](http://arxiv.org/abs/2609.09492)|null|
+|**2026-09-08**|**A Decade of Bayesian Optimization for Controller Tuning and Robot Learning: Tutorial, Review, and Future Prospects**|Sebastian Trimpe Team|[2609.09403](http://arxiv.org/abs/2609.09403)|null|
 |**2026-09-08**|**DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination**|Shanghang Zhang Team|[2609.09119](http://arxiv.org/abs/2609.09119)|null|
 |**2026-09-08**|**BIFTA: Brain-Inspired Few-Shot Tactile Adaptation for Unknown Sensors**|Xia Wu Team|[2609.08673](http://arxiv.org/abs/2609.08673)|null|
 |**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Chenxi Xiao Team|[2609.08493](http://arxiv.org/abs/2609.08493)|null|
@@ -17,7 +27,7 @@ layout: default
 |**2026-09-08**|**3DWay: Generalizing Robot Manipulation via 3D Consistent Waypoints**|Xiangyang Ji Team|[2609.08224](http://arxiv.org/abs/2609.08224)|null|
 |**2026-09-08**|**Observe Before You Alert: Adaptive Driver Alerting with Vision-Language Models**|Hao Zhou Team|[2609.08130](http://arxiv.org/abs/2609.08130)|null|
 |**2026-09-08**|**DISEIL: Demonstration Distillation for Sample-Efficient Imitation Learning**|Santu Rana Team|[2609.08123](http://arxiv.org/abs/2609.08123)|null|
-|**2026-09-07**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Mengdi Xu Team|[2609.07747](http://arxiv.org/abs/2609.07747)|**[link](https://dexx-code.github.io/dexx-code/)**|
+|**2026-09-09**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Mengdi Xu Team|[2609.07747](http://arxiv.org/abs/2609.07747)|**[link](https://dexx-code.github.io/dexx-code/)**|
 |**2026-09-07**|**CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements**|Xiaoguang Han Team|[2609.07498](http://arxiv.org/abs/2609.07498)|**[link](https://cosmoh2g.github.io)**|
 |**2026-09-07**|**Observer-Based Robust Control for an Aerial Manipulator System under Unknown External Disturbances**|Sneha Gajbhiye Team|[2609.07114](http://arxiv.org/abs/2609.07114)|null|
 |**2026-09-07**|**Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring**|Jose M. Alvarez Team|[2609.07049](http://arxiv.org/abs/2609.07049)|null|
@@ -3278,6 +3288,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Learning to Adapt and Calibrate: Score Distribution Alignment for Few-Shot Uncertainty Prediction in Medical VLMs**|Ngan Le Team|[2609.10333](http://arxiv.org/abs/2609.10333)|null|
+|**2026-09-09**|**On-Policy Distillation for Vision-Language Model Adaptation, an Effective Paradigm on Low-Quality Multimodal Data**|Ping Luo Team|[2609.10321](http://arxiv.org/abs/2609.10321)|null|
+|**2026-09-09**|**UOT-Gap: A Variational Principle for the Modality Gap in Vision-Language Models via Unbalanced Optimal Transport**|Yuejun Xie Team|[2609.10224](http://arxiv.org/abs/2609.10224)|null|
+|**2026-09-09**|**Cost-Aware Vision--Language Model Arbitration for Fabric Structure Recognition A Deployable Multi-Agent System**|Elif Ozden-Yenigun Team|[2609.10065](http://arxiv.org/abs/2609.10065)|null|
+|**2026-09-09**|**From Pixels to Hierarchical Sequences: Quadtree Mask Encoding for Vision-Language Binary Change Detection**|Wei He Team|[2609.09876](http://arxiv.org/abs/2609.09876)|null|
+|**2026-09-09**|**LogiScope-VQA: Benchmarking Vision-Language Models for Logistics Hazard Identification in Industrial Scenarios**|Yanbing Zhou Team|[2609.09790](http://arxiv.org/abs/2609.09790)|null|
+|**2026-09-08**|**Low-Rank Prompt Learning for Vision-Language Models with Fixed-Token Bases**|Ramtin Pedarsani Team|[2609.09462](http://arxiv.org/abs/2609.09462)|null|
+|**2026-09-08**|**Vision-language models know more about agriculture than they show and rubric-grounded verifications close the gap**|Urmil Jatin Chandarana Team|[2609.09417](http://arxiv.org/abs/2609.09417)|null|
+|**2026-09-08**|**VANTAGE-Bench: Evaluating the Infrastructure AI Gap in Vision-Language Models**|Vidya Nariyambut Murali Team|[2609.09396](http://arxiv.org/abs/2609.09396)|**[link](https://vantage-bench.org/)**|
+|**2026-09-08**|**Agentic Web Accessibility Auditing: Authoring and Evaluating Per-Criterion Worker Agents for WCAG**|Dongwook Yoon Team|[2609.09379](http://arxiv.org/abs/2609.09379)|null|
 |**2026-09-08**|**Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs**|Yova Kementchedjhieva Team|[2609.09124](http://arxiv.org/abs/2609.09124)|null|
 |**2026-09-08**|**GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting**|Andreas Georgopoulos Team|[2609.09082](http://arxiv.org/abs/2609.09082)|null|
 |**2026-09-08**|**CASD: Chunk-Aligned Semantic Distillation for Multi-StageRobot Manipulation**|He Wang Team|[2609.08638](http://arxiv.org/abs/2609.08638)|null|
@@ -8873,6 +8893,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects**|Wenqiang Zhang Team|[2609.10243](http://arxiv.org/abs/2609.10243)|null|
+|**2026-09-09**|**RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility**|Jincheng Yu Team|[2609.10021](http://arxiv.org/abs/2609.10021)|null|
+|**2026-09-09**|**Time-Frequency Geometric Cross-Attention for Chunked Vision-Language-Action Models**|Shanmin Pang Team|[2609.09925](http://arxiv.org/abs/2609.09925)|null|
+|**2026-09-09**|**Modality-Decoupled Federated Learning for Privacy-Preserving Embodied Intelligence in 6G**|Mohsen Guizani Team|[2609.09591](http://arxiv.org/abs/2609.09591)|null|
+|**2026-09-08**|**No Free Checker: A Survey of Verifiers for Robot Policies**|Linchao Zhu Team|[2609.09250](http://arxiv.org/abs/2609.09250)|**[link](https://github.com/ZJUSCL/Awesome-Robot-Verifier)**|
 |**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Dhruv Shah Team|[2609.09158](http://arxiv.org/abs/2609.09158)|null|
 |**2026-09-08**|**DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination**|Shanghang Zhang Team|[2609.09119](http://arxiv.org/abs/2609.09119)|null|
 |**2026-09-08**|**WorldAgen: Unified State-Action Prediction with Test-Time World Model Training**|Manling Li Team|[2609.08162](http://arxiv.org/abs/2609.08162)|null|
@@ -10577,8 +10602,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**SwingBot: Learning Whole-Body Brachiation for Humanoid Robots**|Lihua Zhang Team|[2609.10283](http://arxiv.org/abs/2609.10283)|null|
 |**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Dhruv Shah Team|[2609.09158](http://arxiv.org/abs/2609.09158)|null|
-|**2026-09-08**|**PGMT: Perceptive General Motion Tracking for Humanoid Robots**|Hongtao Wang Team|[2609.08511](http://arxiv.org/abs/2609.08511)|null|
+|**2026-09-09**|**PGMT: Perceptive General Motion Tracking for Humanoid Robots**|Hongtao Wang Team|[2609.08511](http://arxiv.org/abs/2609.08511)|null|
 |**2026-09-07**|**SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation**|Chuang Gan Team|[2609.07933](http://arxiv.org/abs/2609.07933)|null|
 |**2026-09-07**|**Anti-Gravity Walking by a Flying Humanoid Robot via Thrust-Rate Input Whole-Body Model Predictive Control**|Kei Okada Team|[2609.07544](http://arxiv.org/abs/2609.07544)|null|
 |**2026-09-04**|**Development of a Humanoid Robot Prototype for Multimodal Human-Robot Interaction**|Xiem HoangVan Team|[2609.05361](http://arxiv.org/abs/2609.05361)|null|
@@ -11201,8 +11227,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Assembling Two Parts in One Hand**|Jie Song Team|[2609.10137](http://arxiv.org/abs/2609.10137)|**[link](https://ltbgbird.github.io/in-hand-assembly-page/)**|
 |**2026-09-08**|**DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination**|Shanghang Zhang Team|[2609.09119](http://arxiv.org/abs/2609.09119)|null|
-|**2026-09-07**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Mengdi Xu Team|[2609.07747](http://arxiv.org/abs/2609.07747)|**[link](https://dexx-code.github.io/dexx-code/)**|
+|**2026-09-09**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Mengdi Xu Team|[2609.07747](http://arxiv.org/abs/2609.07747)|**[link](https://dexx-code.github.io/dexx-code/)**|
 |**2026-09-07**|**OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining**|Hang Zhao Team|[2609.07398](http://arxiv.org/abs/2609.07398)|**[link](https://openwam-official.github.io/)**|
 |**2026-09-07**|**Distributed Dexterous Manipulation with Spatially Conditioned Multi-Agent Transformers**|Sarvesh Patil Team|[2609.06930](http://arxiv.org/abs/2609.06930)|null|
 |**2026-09-05**|**How to Learn from What a Human Would Avoid? Intervention-Aware World Models with Real-World RL for Dexterous Manipulation**|Renjing Xu Team|[2609.06009](http://arxiv.org/abs/2609.06009)|**[link](https://whirl-dexterous.github.io/)**|
