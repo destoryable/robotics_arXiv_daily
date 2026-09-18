@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**|Emilio Ferrara Team|[2609.20822](http://arxiv.org/abs/2609.20822)|null|
+|**2026-09-17**|**Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision**|Max Simchowitz Team|[2609.20820](http://arxiv.org/abs/2609.20820)|null|
+|**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Hao Dong Team|[2609.20659](http://arxiv.org/abs/2609.20659)|null|
+|**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
+|**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Zachary Kingston Team|[2609.20648](http://arxiv.org/abs/2609.20648)|null|
+|**2026-09-17**|**TouchSight: Bare-Handed Tactile Prediction from Egocentric Video via Generative Visual Augmentation**|Wenbo Ding Team|[2609.20414](http://arxiv.org/abs/2609.20414)|null|
 |**2026-09-17**|**MAGMA-GEN: Validated Recovery Supervision from Ambiguous Failures via Counterfactual Re-Execution**|Florent Lamiraux Team|[2609.20056](http://arxiv.org/abs/2609.20056)|null|
 |**2026-09-17**|**MaskHarness-WAM: Instance-Grounded Harnessing for Long-Horizon Robot Manipulation**|Hanli Wang Team|[2609.19974](http://arxiv.org/abs/2609.19974)|null|
 |**2026-09-17**|**Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models**|Joerg Stueckler Team|[2609.19923](http://arxiv.org/abs/2609.19923)|null|
@@ -3361,6 +3367,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**StageGuard: Learning Stage Transitions for Long-Horizon Robot Tasks via Agentic Distillation**|Yingxue Zhang Team|[2609.20791](http://arxiv.org/abs/2609.20791)|null|
+|**2026-09-17**|**Imagine-TAMP: Imagination-Guided Task and Motion Planning in Partial Observability**|Yoonchang Sung Team|[2609.20396](http://arxiv.org/abs/2609.20396)|null|
 |**2026-09-17**|**Cross-Modal Attention Acts as a Frequency Filter: Why Verbose Prompts Improve Robustness in Vision-Language Models**|Fabrizio Silvestri Team|[2609.20139](http://arxiv.org/abs/2609.20139)|null|
 |**2026-09-17**|**Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents**|Jingyuan Zhao Team|[2609.20110](http://arxiv.org/abs/2609.20110)|null|
 |**2026-09-17**|**A Free Lunch? Adapting PP-OCRv6 for Historical Text Recognition**|Benjamin Kiessling Team|[2609.20064](http://arxiv.org/abs/2609.20064)|null|
@@ -9035,6 +9043,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies**|Yi Bin Team|[2609.20776](http://arxiv.org/abs/2609.20776)|null|
+|**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Hao Dong Team|[2609.20659](http://arxiv.org/abs/2609.20659)|null|
+|**2026-09-17**|**SkipVLA: Skipping VLA Steps with Classical Planning for Fast Robot Manipulation**|Zachary Kingston Team|[2609.20648](http://arxiv.org/abs/2609.20648)|null|
+|**2026-09-17**|**TraceFlow: Guiding Frozen Flow-Matching Robot Policies with Success and Failure Traces**|Yanchao Yang Team|[2609.20646](http://arxiv.org/abs/2609.20646)|null|
 |**2026-09-17**|**Compliance for Free: Learning Identifiable Impedance via Bilateral Teleoperation**|Carme Torras Team|[2609.19976](http://arxiv.org/abs/2609.19976)|null|
 |**2026-09-17**|**Co-VLA: Consensus-based Federated Training for Vision-Language-Action Models**|Joerg Stueckler Team|[2609.19923](http://arxiv.org/abs/2609.19923)|null|
 |**2026-09-17**|**Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning**|Lianhui Qin Team|[2609.19878](http://arxiv.org/abs/2609.19878)|null|
@@ -10799,6 +10811,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction**|Shuai Li Team|[2609.20558](http://arxiv.org/abs/2609.20558)|null|
 |**2026-09-17**|**OmniCalib: Target-Free, Task-Structured Self-Calibration for Humanoid Robots**|Chuang Wang Team|[2609.19582](http://arxiv.org/abs/2609.19582)|null|
 |**2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Shiguang Shan Team|[2609.19340](http://arxiv.org/abs/2609.19340)|**[link](https://viloman-anonymous.pages.dev/)**|
 |**2026-09-16**|**Learning Safe Humanoid Navigation from Reduced Order Models**|Aaron D. Ames Team|[2609.19272](http://arxiv.org/abs/2609.19272)|null|
@@ -11439,6 +11452,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
 |**2026-09-17**|**AnyViewDex: View-Invariant Dexterous Manipulation from RGB Observations**|Spandan Roy Team|[2609.20107](http://arxiv.org/abs/2609.20107)|null|
 |**2026-09-17**|**Towards High-DoF Dexterous Manipulation through VLA Post-Training**|Yide Liu Team|[2609.19666](http://arxiv.org/abs/2609.19666)|null|
 |**2026-09-16**|**Grasping by interconnection: robust closing motions from coarse object templates**|Pierre Sacré Team|[2609.19228](http://arxiv.org/abs/2609.19228)|null|
