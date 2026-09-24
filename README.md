@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams**|Xi Lin Team|[2609.28429](http://arxiv.org/abs/2609.28429)|null|
+|**2026-09-23**|**PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation**|Changhyun Choi Team|[2609.28393](http://arxiv.org/abs/2609.28393)|**[link](https://pointcast-wm.github.io.)**|
+|**2026-09-23**|**BrickCraft-Duo: Efficient Dual-Arm Skill Learning and Refinement for Compositional Long-Horizon Assembly**|Chuxiong Hu Team|[2609.28281](http://arxiv.org/abs/2609.28281)|null|
+|**2026-09-23**|**VLMs Can Describe, But Not Measure: Object-Centric Scene Understanding for Robotic Manipulation**|Matteo Saveriano Team|[2609.28184](http://arxiv.org/abs/2609.28184)|null|
+|**2026-09-23**|**Finite-Sample Probabilistic Safety Certification for AI-Based Grid-Edge Coordination**|Thomas Morstyn Team|[2609.28182](http://arxiv.org/abs/2609.28182)|null|
+|**2026-09-23**|**Distillation for Efficient Multitask Manipulation Policies via Conditional Flow Matching**|Abhinav Valada Team|[2609.28107](http://arxiv.org/abs/2609.28107)|null|
 |**2026-09-23**|**GLoTouch: Global-to-Local Haptic Perception Using a Parallel Gripper for Object Search, Recognition, and Grasping Without External Vision**|Daolin Ma Team|[2609.27695](http://arxiv.org/abs/2609.27695)|null|
 |**2026-09-23**|**Latent evolving World Action Model**|Guo-Jun Qi Team|[2609.27455](http://arxiv.org/abs/2609.27455)|**[link](https://github.com/XuejiFang/LeWAM)**|
 |**2026-09-23**|**X2Real: an eXtensive simulation benchmark for real-world generalist policies**|Qian Wang Team|[2609.27449](http://arxiv.org/abs/2609.27449)|null|
@@ -3436,6 +3442,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios**|Qianwen Li Team|[2609.28366](http://arxiv.org/abs/2609.28366)|null|
+|**2026-09-23**|**TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning**|Yixuan Huang Team|[2609.28314](http://arxiv.org/abs/2609.28314)|**[link](https://prpl-group.com/tandem/.)**|
+|**2026-09-23**|**A Unified Framework and Dataset for Oriented Object Visual Grounding in Remote Sensing**|Abdulmotaleb El Saddik Team|[2609.28230](http://arxiv.org/abs/2609.28230)|null|
+|**2026-09-23**|**VLMs Can Describe, But Not Measure: Object-Centric Scene Understanding for Robotic Manipulation**|Matteo Saveriano Team|[2609.28184](http://arxiv.org/abs/2609.28184)|null|
+|**2026-09-23**|**Prompt, Probe, Train, or Annotate? Single-camera sports video understanding in amateur settings**|Jaylen Cargill Team|[2609.28049](http://arxiv.org/abs/2609.28049)|null|
 |**2026-09-23**|**FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology**|Anne-Christin Hauschild Team|[2609.27710](http://arxiv.org/abs/2609.27710)|null|
 |**2026-09-23**|**Gender Bias in Vision-Language In-Context Learning**|Yuta Nakashima Team|[2609.27682](http://arxiv.org/abs/2609.27682)|null|
 |**2026-09-23**|**NV-Reason-CT: 3D Visual Language Model for CT Analysis**|Daguang Xu Team|[2609.27511](http://arxiv.org/abs/2609.27511)|null|
@@ -9182,6 +9193,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion**|Shanghang Zhang Team|[2609.28431](http://arxiv.org/abs/2609.28431)|null|
+|**2026-09-23**|**TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning**|Yixuan Huang Team|[2609.28314](http://arxiv.org/abs/2609.28314)|**[link](https://prpl-group.com/tandem/.)**|
+|**2026-09-23**|**MemBodied: Recurrent Associative Memory for Vision-Language-Action Models**|Soujanya Poria Team|[2609.28256](http://arxiv.org/abs/2609.28256)|null|
+|**2026-09-23**|**Dissecting Advantage-Guided Post-Training for Vision-Language-Action Policies**|Weinan Zhang Team|[2609.28161](http://arxiv.org/abs/2609.28161)|null|
 |**2026-09-23**|**Less Language, More Latents: Annotation-Efficient VLAs for Driving**|Puneet K. Dokania Team|[2609.27747](http://arxiv.org/abs/2609.27747)|null|
 |**2026-09-23**|**InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies**|Vedant Dave Team|[2609.27734](http://arxiv.org/abs/2609.27734)|null|
 |**2026-09-23**|**CereVLA: Cerebellum-Inspired Consequence-Aware Residual Governance for Efficient Vision-Language-Action Execution**|Hang Zhao Team|[2609.27468](http://arxiv.org/abs/2609.27468)|null|
@@ -11009,6 +11024,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control**|Jinyan Liu Team|[2609.28378](http://arxiv.org/abs/2609.28378)|**[link](https://github.com/Zili1000/ForgetMimic)**|
 |**2026-09-22**|**Learning Expressive Humanoid Locomotion from Monocular Runway Videos for Robot Fashion Shows**|Jong-Hoon Kim Team|[2609.27003](http://arxiv.org/abs/2609.27003)|null|
 |**2026-09-22**|**MATE: Multi-Agent Virtual Teleoperation Platform for Humanoid Collaboration Data Collection**|Yuexin Ma Team|[2609.26520](http://arxiv.org/abs/2609.26520)|null|
 |**2026-09-22**|**PLAT: Sparse Timed Keyframe Motion Tracking for Humanoid Control via Privileged Latent Transition Learning**|Zongqing Lu Team|[2609.25754](http://arxiv.org/abs/2609.25754)|null|
@@ -11668,6 +11684,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion**|Shanghang Zhang Team|[2609.28431](http://arxiv.org/abs/2609.28431)|null|
 |**2026-09-23**|**InternW0: A Foundational Physical World Model for Efficient Real-World Interactions**|Weinan Zhang Team|[2609.27656](http://arxiv.org/abs/2609.27656)|null|
 |**2026-09-22**|**MSK-Bench: Benchmarking Full-Body Musculoskeletal Motor Control Across Tasks, Control Paradigms, and Physiological Metrics**|Hao Zhao Team|[2609.26872](http://arxiv.org/abs/2609.26872)|**[link](https://zzongzheng0918.github.io/MSK-Bench/)**|
 |**2026-09-22**|**VisForce: Visual Grounding of Current and Desired Forces for Goal-Conditioned Dexterous Manipulation**|Soo-Chul Lim Team|[2609.25785](http://arxiv.org/abs/2609.25785)|null|
