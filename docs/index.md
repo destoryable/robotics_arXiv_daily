@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Provable Benefits of Regularization: Fast Rates for Adversarial Imitation Learning**|Weitong Zhang Team|[2609.35698](http://arxiv.org/abs/2609.35698)|null|
+|**2026-09-28**|**Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching**|Mengdi Xu Team|[2609.35469](http://arxiv.org/abs/2609.35469)|null|
+|**2026-09-28**|**From Pixel to Poses: Object-centric Tool Manipulation Learning from Human Demonstrations**|Hongyang Li Team|[2609.35375](http://arxiv.org/abs/2609.35375)|null|
+|**2026-09-28**|**DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library**|Huang Huang Team|[2609.35318](http://arxiv.org/abs/2609.35318)|**[link](https://dexagent123.github.io/)**|
+|**2026-09-28**|**Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies**|Yingxue Zhang Team|[2609.35249](http://arxiv.org/abs/2609.35249)|null|
+|**2026-09-28**|**ReCAT: Remember, Count, and Time: Structured Recurrent Memory for Robot Manipulation**|Rudolf Lioutikov Team|[2609.35200](http://arxiv.org/abs/2609.35200)|null|
 |**2026-09-28**|**Learning to Act under Visual Interruptions with Vision-Language-Action Models**|Chang Xu Team|[2609.35003](http://arxiv.org/abs/2609.35003)|**[link](https://minglejiang.github.io/Mail-Bench/)**|
 |**2026-09-28**|**ActionUNet: Improving Robustness of VLA Models with Efficient Multi-scale Fine-tuning**|Fang Wan Team|[2609.34982](http://arxiv.org/abs/2609.34982)|null|
 |**2026-09-28**|**Proactive Dialogue Policy Optimization via Cognitive-State Transition**|Jingqi Liu Team|[2609.34948](http://arxiv.org/abs/2609.34948)|null|
@@ -16,6 +22,13 @@ layout: default
 |**2026-09-28**|**HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction**|Marco Hutter Team|[2609.34674](http://arxiv.org/abs/2609.34674)|**[link](http://shinben0327.github.io/hoi-retarget)**|
 |**2026-09-28**|**Where Memory Belongs: Ledger, an Object Ledger for Memory-Augmented VLAs**|Heng Yang Team|[2609.34554](http://arxiv.org/abs/2609.34554)|null|
 |**2026-09-28**|**ARS: Agentic Reward System for Robot Learning**|Yi Xu Team|[2609.34484](http://arxiv.org/abs/2609.34484)|null|
+|**2026-09-28**|**From World Models to World Action Models: Rethinking Next-State Prediction**|Jinqiao Wang Team|[2609.34414](http://arxiv.org/abs/2609.34414)|null|
+|**2026-09-28**|**RoboIRGBench: Benchmarking Implicit Referential Grounding in Vision-Language-Action Models**|Bin Zhu Team|[2609.34384](http://arxiv.org/abs/2609.34384)|**[link](https://aernar.github.io/RoboIRGBench/)**|
+|**2026-09-28**|**Derivative-Free Generalized Multivariable Super-Twisting Control for Constrained Euler-Lagrange Systems**|Jishnu Keshavan Team|[2609.34379](http://arxiv.org/abs/2609.34379)|null|
+|**2026-09-28**|**TLC-DiT: Task-Aligned Local Visual Conditioning for Robust Multitask Robot Manipulation**|Tetsuya Ogata Team|[2609.34297](http://arxiv.org/abs/2609.34297)|null|
+|**2026-09-28**|**WAM-OPD: Sharpening World Action Models via On-Policy Distillation**|Zhiwei Xiong Team|[2609.34250](http://arxiv.org/abs/2609.34250)|null|
+|**2026-09-28**|**mmHRI: Towards Privacy-Preserving Human-Robot Interaction with Millimeter-Wave Radar**|Jianfei Yang Team|[2609.34220](http://arxiv.org/abs/2609.34220)|null|
+|**2026-09-28**|**RLE-Bench: A Qualifying Exam for Coding Agents as Robot Learning Engineers**|Bo Dai Team|[2609.34210](http://arxiv.org/abs/2609.34210)|**[link](https://rle-bench.github.io/)**|
 |**2026-09-27**|**ZeroBot: Learning from Scratch in Minutes with Generative Real2Sim**|Edward Johns Team|[2609.34010](http://arxiv.org/abs/2609.34010)|**[link](https://zerobot-rl.github.io)**|
 |**2026-09-27**|**TacGooseBumps (TacGB): Retrofitting Normal-Only Tactile Sensors with Shear Encoding for Learning Contact-Rich Manipulation**|Masayoshi Tomizuka Team|[2609.34006](http://arxiv.org/abs/2609.34006)|null|
 |**2026-09-27**|**Test-Time Spatial Reasoning for Robot Manipulation Using Generative Real-to-Sim**|Xiaohan Zhang Team|[2609.33982](http://arxiv.org/abs/2609.33982)|null|
@@ -3489,6 +3502,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**ScAn-Bench: Evaluating Scaling Analysis Methodology**|Danny Stoll Team|[2609.35707](http://arxiv.org/abs/2609.35707)|null|
+|**2026-09-28**|**FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching**|Viet Lai Team|[2609.35673](http://arxiv.org/abs/2609.35673)|null|
+|**2026-09-28**|**PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents**|Chao Huang Team|[2609.35671](http://arxiv.org/abs/2609.35671)|null|
+|**2026-09-28**|**Verifiable Visual Rewards Transfer from Synthetic Scenes to Natural Prompts**|Luke Zettlemoyer Team|[2609.35641](http://arxiv.org/abs/2609.35641)|null|
+|**2026-09-28**|**From internal representations to model improvement through prediction errors**|Shuichi Ishida Team|[2609.35449](http://arxiv.org/abs/2609.35449)|null|
+|**2026-09-28**|**Beyond Saying Less: Fine-Grained Alignment for Informative and Faithful Vision-Language Models**|Xilin Chen Team|[2609.35294](http://arxiv.org/abs/2609.35294)|null|
+|**2026-09-28**|**Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment**|Francesco Croce Team|[2609.35291](http://arxiv.org/abs/2609.35291)|null|
+|**2026-09-28**|**When Words Speak Louder than Images: Towards Understanding Language Bias in Vision-Language Models**|Guangliang Liu Team|[2609.35272](http://arxiv.org/abs/2609.35272)|null|
+|**2026-09-28**|**Beyond Selection: Token Parameterization for Extreme Visual Token Compression**|Cheng Zhuo Team|[2609.35232](http://arxiv.org/abs/2609.35232)|**[link](https://github.com/zrrraa/Braco)**|
 |**2026-09-28**|**RenderRank: Learning to Rerank Text with Compressed Visual Tokens**|Heuiseok Lim Team|[2609.35069](http://arxiv.org/abs/2609.35069)|null|
 |**2026-09-28**|**THEIA: A Multimodal Dataset and Benchmark for Vision-Language Analysis of Layout**|Davide Zoni Team|[2609.35035](http://arxiv.org/abs/2609.35035)|null|
 |**2026-09-28**|**Still There, No Longer Seen: Exposing Compression-Induced Risk in Large Vision-Language Models**|Li Sun Team|[2609.35002](http://arxiv.org/abs/2609.35002)|null|
@@ -9298,6 +9320,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Humanoid Loco-Manipulation With Discrete VLA Model**|Qiang Liu Team|[2609.35709](http://arxiv.org/abs/2609.35709)|null|
+|**2026-09-28**|**F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement**|Jianfei Yang Team|[2609.35575](http://arxiv.org/abs/2609.35575)|null|
+|**2026-09-28**|**Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching**|Mengdi Xu Team|[2609.35469](http://arxiv.org/abs/2609.35469)|null|
+|**2026-09-28**|**Uni-VLaT: Whole-Body Tactile Adaptation of VLA Policies for Humanoid Loco-Manipulation**|Mengdi Xu Team|[2609.35450](http://arxiv.org/abs/2609.35450)|null|
+|**2026-09-28**|**Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence**|Xiao He Team|[2609.35432](http://arxiv.org/abs/2609.35432)|null|
+|**2026-09-28**|**Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies**|Yingxue Zhang Team|[2609.35249](http://arxiv.org/abs/2609.35249)|null|
+|**2026-09-28**|**Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies**|Lydia E. Kavraki Team|[2609.35231](http://arxiv.org/abs/2609.35231)|null|
 |**2026-09-28**|**RefineDrive: Reliable Failure-Guided Learning for Vision-Language-Action Driving**|Xi Li Team|[2609.35078](http://arxiv.org/abs/2609.35078)|null|
 |**2026-09-28**|**Do Not Cut When Uncertain: Rejectable and Calibrated Decision Heads for VLA Policies in Robotic Harvesting**|Heng Zhang Team|[2609.35039](http://arxiv.org/abs/2609.35039)|null|
 |**2026-09-28**|**Learning to Act under Visual Interruptions with Vision-Language-Action Models**|Chang Xu Team|[2609.35003](http://arxiv.org/abs/2609.35003)|**[link](https://minglejiang.github.io/Mail-Bench/)**|
@@ -11832,6 +11861,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations**|Sirui Han Team|[2609.35761](http://arxiv.org/abs/2609.35761)|**[link](https://dexroam.github.io/)**|
+|**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Wei Zhan Team|[2609.35715](http://arxiv.org/abs/2609.35715)|null|
+|**2026-09-28**|**DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library**|Huang Huang Team|[2609.35318](http://arxiv.org/abs/2609.35318)|**[link](https://dexagent123.github.io/)**|
 |**2026-09-28**|**DexWeave: Learning Dexterous Humanoid Loco-Manipulation from Human Demonstrations**|Peidong Liu Team|[2609.34724](http://arxiv.org/abs/2609.34724)|null|
 |**2026-09-28**|**WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation**|Hang Zhao Team|[2609.34199](http://arxiv.org/abs/2609.34199)|**[link](https://wb-wam.github.io)**|
 |**2026-09-28**|**Unified Visual-Tactile-Action Modeling from Human Demonstrations for Dexterous Manipulation**|Siyuan Huang Team|[2609.34182](http://arxiv.org/abs/2609.34182)|null|
