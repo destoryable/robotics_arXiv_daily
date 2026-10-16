@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Fast-VLA: You Only Think Once for Robot Manipulation**|Michael Bi Mi Team|[2610.21389](http://arxiv.org/abs/2610.21389)|**[link](https://garfield-kh.github.io/FastVLA)**|
+|**2026-10-15**|**LTM: Latent Transition Based In-Context Memory for Vision-Language-Action Models**|Pengwei Wang Team|[2610.21362](http://arxiv.org/abs/2610.21362)|**[link](https://github.com/buaa-colalab/LTM-pi)**|
+|**2026-10-15**|**CQDC-Warp: GPU-Accelerated Differentiable Quasi-Dynamic Simulation for Contact-Rich Manipulation**|He Wang Team|[2610.21349](http://arxiv.org/abs/2610.21349)|null|
+|**2026-10-15**|**MR-MPCC: Model Predictive Contouring Control for Robotic Manipulator Tracking under Moving Reference Frames**|Shoudong Huang Team|[2610.21292](http://arxiv.org/abs/2610.21292)|null|
+|**2026-10-15**|**An Agentic Framework for Proactive Robots with Procedural Assistance Memory**|Jaegul Choo Team|[2610.21211](http://arxiv.org/abs/2610.21211)|**[link](https://davian-robotics.github.io/PAM/)**|
+|**2026-10-15**|**Physical AI: A Survey of Models, Learning, Systems, and Open Challenges**|Tulika Mitra Team|[2610.21171](http://arxiv.org/abs/2610.21171)|null|
+|**2026-10-14**|**TGrasp6D: Task-Informed Vision-Language Priors and Pose Refinement enable Zero-Shot Task-Oriented 6DoF Grasping**|Aniket Bera Team|[2610.20901](http://arxiv.org/abs/2610.20901)|null|
+|**2026-10-14**|**A Phenomenology of Neural Geometry in Vision-Language-Action Models**|Thomas Fel Team|[2610.20840](http://arxiv.org/abs/2610.20840)|null|
+|**2026-10-14**|**Causal Analysis of Robot Foundation Models Enables Efficiency Gains**|Matthew Kowal Team|[2610.20750](http://arxiv.org/abs/2610.20750)|null|
 |**2026-10-14**|**Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance**|Jiachen Li Team|[2610.20607](http://arxiv.org/abs/2610.20607)|**[link](https://hire-moma.github.io/)**|
 |**2026-10-14**|**Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**|Koushil Sreenath Team|[2610.20606](http://arxiv.org/abs/2610.20606)|**[link](https://humanoid-weight-diffusion.github.io/)**|
 |**2026-10-14**|**Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation**|Chenjia Bai Team|[2610.20504](http://arxiv.org/abs/2610.20504)|**[link](https://gr-bc.github.io/)**|
@@ -3733,6 +3742,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**MYOPIA: Understanding the Limits of Tree-Based Reasoning in Vision-Language Models**|Sebastian J. Vollmer Team|[2610.21573](http://arxiv.org/abs/2610.21573)|null|
+|**2026-10-15**|**Cross-Prompt Inference Mitigates Rare-Class Suppression in Imbalanced VLM Finetuning**|Avi Ben-Cohen Team|[2610.21470](http://arxiv.org/abs/2610.21470)|null|
+|**2026-10-15**|**X-Fly: Learning to Reach and Stop in Full-Chunk Aerial Vision-Language Navigation**|Lin Wang Team|[2610.21450](http://arxiv.org/abs/2610.21450)|**[link](https://juliusju572.github.io/x-fly/)**|
+|**2026-10-15**|**Perception or Reasoning? Diagnosing and Tackling Reinforcement Learning Bottlenecks in VLMs**|Chuang Gan Team|[2610.21380](http://arxiv.org/abs/2610.21380)|null|
+|**2026-10-15**|**DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding**|Nan Tang Team|[2610.21327](http://arxiv.org/abs/2610.21327)|null|
+|**2026-10-15**|**AdaLoop: Thinking with the Vision Encoder**|Todd Zickler Team|[2610.21323](http://arxiv.org/abs/2610.21323)|null|
+|**2026-10-15**|**ZoomCap: Evidence-Routed Visual Zooming for Recoverable Visual Information Transfer**|Chao Huang Team|[2610.21320](http://arxiv.org/abs/2610.21320)|**[link](https://huggingface.co/datasets/MasterHow/ZoomCap-450K)**|
+|**2026-10-15**|**Loud and Clear: Making Visual Evidence Count in Multimodal Document RAG**|Sangwoo Mo Team|[2610.21318](http://arxiv.org/abs/2610.21318)|null|
+|**2026-10-14**|**Do As I Do, Not As I Say: On-Policy Distillation Inherits the Teacher in Vision-Language Models**|Yiyang Wang Team|[2610.20989](http://arxiv.org/abs/2610.20989)|**[link](https://github.com/ffy208/opd-inherits-teacher-vlm)**|
+|**2026-10-14**|**VELD-QA: A Large-Scale Dataset for Visual Evidence Grounding and Question Answering in Long Documents**|Dan Roth Team|[2610.20964](http://arxiv.org/abs/2610.20964)|null|
+|**2026-10-14**|**Probing Negation Understanding in Vision-Language Models With Object Attention**|Martha Lewis Team|[2610.20852](http://arxiv.org/abs/2610.20852)|null|
+|**2026-10-14**|**Causal Analysis of Robot Foundation Models Enables Efficiency Gains**|Matthew Kowal Team|[2610.20750](http://arxiv.org/abs/2610.20750)|null|
+|**2026-10-14**|**Orbia: Do Generated Videos Form a Consistent 3D World?**|Shuicheng Yan Team|[2610.20693](http://arxiv.org/abs/2610.20693)|**[link](https://orbia-bench.github.io/)**|
+|**2026-10-14**|**Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models**|Lei Zhu Team|[2610.20679](http://arxiv.org/abs/2610.20679)|null|
 |**2026-10-14**|**Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR**|Yongyi Zang Team|[2610.20461](http://arxiv.org/abs/2610.20461)|null|
 |**2026-10-14**|**STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents**|Minghui Wu Team|[2610.20390](http://arxiv.org/abs/2610.20390)|null|
 |**2026-10-14**|**Reflect After Failure: Brain-Inspired Self-Evolving Agents for Embodied Spatial Intelligence**|Yun Wang Team|[2610.20312](http://arxiv.org/abs/2610.20312)|null|
@@ -9788,6 +9811,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Multi-Teacher On-Policy Distillation for Flow-Based Vision-Language-Action Models**|Guanghuan Fang Team|[2610.21522](http://arxiv.org/abs/2610.21522)|null|
+|**2026-10-15**|**CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance**|Jiaya Jia Team|[2610.21453](http://arxiv.org/abs/2610.21453)|**[link](https://vincent2311.github.io/Projects/CarryOn/)**|
+|**2026-10-15**|**Policy-Aligned Predictive Verification for Adaptive VLA Action-Chunk Execution**|Nojun Kwak Team|[2610.21434](http://arxiv.org/abs/2610.21434)|null|
+|**2026-10-15**|**Fast-VLA: You Only Think Once for Robot Manipulation**|Michael Bi Mi Team|[2610.21389](http://arxiv.org/abs/2610.21389)|**[link](https://garfield-kh.github.io/FastVLA)**|
+|**2026-10-15**|**LTM: Latent Transition Based In-Context Memory for Vision-Language-Action Models**|Pengwei Wang Team|[2610.21362](http://arxiv.org/abs/2610.21362)|**[link](https://github.com/buaa-colalab/LTM-pi)**|
+|**2026-10-15**|**VLA- $Δ$ : Learning Physical State Transition for Vision-Language-Action Models**|Xuhong Zhang Team|[2610.21306](http://arxiv.org/abs/2610.21306)|**[link](https://github.com/ZJU-OmniAI/VLA-Delta)**|
+|**2026-10-15**|**Do VLAs Really Follow Instructions? Diagnosing How-Level Instruction Following in Vision-Language-Action Models**|Chanyoung Park Team|[2610.21251](http://arxiv.org/abs/2610.21251)|null|
+|**2026-10-15**|**When to Ask for Help: A Decision-Theoretic Account and Measurement Standard for Slow-Module Scheduling in Dual-System Vision-Language-Action Models**|Shilin Zhang Team|[2610.21160](http://arxiv.org/abs/2610.21160)|null|
+|**2026-10-15**|**KODA: Kinematics--Observation Data Alignment for Humanoid Learning from Human Egocentric Demonstration**|Xuelong Li Team|[2610.21152](http://arxiv.org/abs/2610.21152)|null|
+|**2026-10-14**|**A Phenomenology of Neural Geometry in Vision-Language-Action Models**|Thomas Fel Team|[2610.20840](http://arxiv.org/abs/2610.20840)|null|
+|**2026-10-14**|**Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models**|Matthew Kowal Team|[2610.20767](http://arxiv.org/abs/2610.20767)|null|
+|**2026-10-14**|**Causal Analysis of Robot Foundation Models Enables Efficiency Gains**|Matthew Kowal Team|[2610.20750](http://arxiv.org/abs/2610.20750)|null|
 |**2026-10-14**|**SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**|Qi Alfred Chen Team|[2610.20609](http://arxiv.org/abs/2610.20609)|**[link](https://safedrive-vla.github.io/SafeDriveVLA/)**|
 |**2026-10-14**|**Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation**|Chenjia Bai Team|[2610.20504](http://arxiv.org/abs/2610.20504)|**[link](https://gr-bc.github.io/)**|
 |**2026-10-14**|**AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents**|Daling Wang Team|[2610.20474](http://arxiv.org/abs/2610.20474)|null|
@@ -11870,6 +11905,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**TRACE: Typed Reference-Aware Conversational Editing for Humanoid Motion Diffusion**|Xiangru Huang Team|[2610.21515](http://arxiv.org/abs/2610.21515)|null|
 |**2026-10-14**|**Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE**|Hod Lipson Team|[2610.19635](http://arxiv.org/abs/2610.19635)|null|
 |**2026-10-14**|**Beyond Kinematic Tracking: Preserving Expressive Characteristics in Humanoid Whole-Body Control**|Chengxu Zhou Team|[2610.19393](http://arxiv.org/abs/2610.19393)|null|
 |**2026-10-12**|**LiDAR-based Humanoid Navigation in Dynamic, Non-Convex Environments via Spatio-Temporal Safe Corridors**|Panagiotis Artemiadis Team|[2610.17232](http://arxiv.org/abs/2610.17232)|null|
@@ -12584,12 +12620,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Evo-DexBench: Benchmarking Generalization across Related Tasks for Dexterous Manipulation**|Bo Zhao Team|[2610.21180](http://arxiv.org/abs/2610.21180)|null|
+|**2026-10-14**|**EgoJEPA: Beyond Retargeting for Dexterous Manipulation from Egocentric Videos**|Xiaodan Liang Team|[2610.20904](http://arxiv.org/abs/2610.20904)|null|
 |**2026-10-14**|**KinoGen: Customizable Humanoid Loco-Manipulation References via Kinematically Grounded Video Generation**|Kuan Fang Team|[2610.20552](http://arxiv.org/abs/2610.20552)|null|
 |**2026-10-14**|**TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation**|Weihao Yuan Team|[2610.20320](http://arxiv.org/abs/2610.20320)|null|
 |**2026-10-14**|**Coordi-pi: Coordination-Aware Dual-Hand Action Representation for Bimanual Dexterous Manipulation**|Yao Mu Team|[2610.19753](http://arxiv.org/abs/2610.19753)|null|
 |**2026-10-14**|**HiFun: a Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning**|Jie Song Team|[2610.19518](http://arxiv.org/abs/2610.19518)|null|
 |**2026-10-13**|**FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity**|Huang Huang Team|[2610.19155](http://arxiv.org/abs/2610.19155)|null|
-|**2026-10-13**|**DexMimic: A Generalist Dexterous Hand-Object Tracking Policy via Value-Guided Reset Allocation**|Lin Shao Team|[2610.19089](http://arxiv.org/abs/2610.19089)|**[link](https://zhexiluo.github.io/DexMimic/)**|
+|**2026-10-15**|**DexMimic: A Generalist Dexterous Hand-Object Tracking Policy via Value-Guided Reset Allocation**|Lin Shao Team|[2610.19089](http://arxiv.org/abs/2610.19089)|**[link](https://zhexiluo.github.io/DexMimic/)**|
 |**2026-10-13**|**EgoMatrix: Physically Faithful Dexterous Robot Demonstrations from Egocentric Human Videos**|Yao Mu Team|[2610.18822](http://arxiv.org/abs/2610.18822)|null|
 |**2026-10-13**|**DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting**|Yongseok Lee Team|[2610.17789](http://arxiv.org/abs/2610.17789)|null|
 |**2026-10-13**|**EgoCPT: Learning Dexterous Manipulation from a Single Ego-Centric Video with Contact-Aware Optimization**|James Jingxi Xu Team|[2610.17572](http://arxiv.org/abs/2610.17572)|null|
