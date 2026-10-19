@@ -16,6 +16,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**Not All Actions Contribute Equally: Learning Precise Progress Estimation from Imprecise Demonstrations**|Gao Huang Team|[2610.23769](http://arxiv.org/abs/2610.23769)|null|
+|**2026-10-16**|**Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action**|Abhinav Valada Team|[2610.23642](http://arxiv.org/abs/2610.23642)|null|
+|**2026-10-16**|**Enhancing Visual Task-Redirection Attacks on Vision-Language-Action Models via Closed-Loop Optimization**|Xiaochun Cao Team|[2610.23566](http://arxiv.org/abs/2610.23566)|null|
+|**2026-10-16**|**HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents**|Xiao He Team|[2610.23479](http://arxiv.org/abs/2610.23479)|**[link](https://github.com/HexaFuture/HexaShell)**|
+|**2026-10-16**|**AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation**|Yanwei Fu Team|[2610.23396](http://arxiv.org/abs/2610.23396)|null|
+|**2026-10-16**|**Look Before You Act: Bridging Active Perception and Vision-Language-Action Models via Observation-Aligned Data Adaptation**|Yanwei Fu Team|[2610.23378](http://arxiv.org/abs/2610.23378)|null|
+|**2026-10-16**|**ORD-WM: Learning Object-Centric Rigid Dynamics for 3D World Modeling in Robotic Manipulation**|Yanjie Li Team|[2610.23156](http://arxiv.org/abs/2610.23156)|null|
+|**2026-10-16**|**GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation**|Wende Xie Team|[2610.23123](http://arxiv.org/abs/2610.23123)|null|
+|**2026-10-16**|**Unifying Embodied Foundation Models via a Model-to-Policy Formulation**|Mingyang Ren Team|[2610.23053](http://arxiv.org/abs/2610.23053)|null|
+|**2026-10-16**|**Hardware-as-Regularization: Enhancing Data Consistency in Imitation Learning via an Adjustable Passive Compliant Leader Arm**|Hirokazu Ishida Team|[2610.22977](http://arxiv.org/abs/2610.22977)|null|
+|**2026-10-16**|**MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models**|Cesare Stefanini Team|[2610.22951](http://arxiv.org/abs/2610.22951)|null|
+|**2026-10-16**|**Ego2Contact: Predicting Touch from Egocentric Human Video for Contact-Rich Robot Manipulation**|Zhiwen Fan Team|[2610.22932](http://arxiv.org/abs/2610.22932)|null|
+|**2026-10-16**|**Simultaneous Force and Motion Control in Generalised Coordinates**|Jon Woolfrey Team|[2610.22813](http://arxiv.org/abs/2610.22813)|null|
+|**2026-10-16**|**Pedicel-Targeted Strawberry Harvesting via Imitation Learning on a Low-Cost Teleoperated Robotic Arm**|Heping Zhu Team|[2610.22765](http://arxiv.org/abs/2610.22765)|null|
+|**2026-10-15**|**Modeling and Analysis of Dynamic Coupling Effects in a Free-Floating Space Manipulator**|Erik Chumacero-Polanco Team|[2610.22558](http://arxiv.org/abs/2610.22558)|null|
+|**2026-10-15**|**Scaling Online Exploration for Robot Agents**|Yilun Du Team|[2610.22496](http://arxiv.org/abs/2610.22496)|**[link](https://robot-agent-exploration.com/)**|
+|**2026-10-15**|**Has GPT-6-Astra Achieved Embodied Intelligence?**|Jing Zuo Team|[2610.22471](http://arxiv.org/abs/2610.22471)|**[link](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence)**|
 |**2026-10-15**|**LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**|Jiachen Li Team|[2610.22372](http://arxiv.org/abs/2610.22372)|**[link](https://libero-perm.github.io/)**|
 |**2026-10-15**|**Dexterity from Supervised Play**|Ruoshi Liu Team|[2610.22340](http://arxiv.org/abs/2610.22340)|null|
 |**2026-10-15**|**Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce**|Azlan Zahid Team|[2610.22337](http://arxiv.org/abs/2610.22337)|null|
