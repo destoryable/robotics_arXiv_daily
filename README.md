@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Yan Chang Team|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
+|**2026-10-19**|**CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting**|Jiachen Li Team|[2610.26852](http://arxiv.org/abs/2610.26852)|**[link](https://coopuq.github.io/)**|
+|**2026-10-19**|**GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation**|Chen Wang Team|[2610.26846](http://arxiv.org/abs/2610.26846)|**[link](https://tactalent.github.io/)**|
+|**2026-10-19**|**V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos**|Baining Guo Team|[2610.26780](http://arxiv.org/abs/2610.26780)|null|
+|**2026-10-19**|**Robot Learning with Vision-Language-Action Models for Agricultural Manipulation**|Mohammadreza Davoodi Team|[2610.26717](http://arxiv.org/abs/2610.26717)|null|
+|**2026-10-19**|**DenseHap: Dense Hand Haptic Estimation from Monocular Images**|Rolandos Alexandros Potamias Team|[2610.26583](http://arxiv.org/abs/2610.26583)|null|
+|**2026-10-19**|**Learn the Task, Not the Schedule: Reducing Spurious Cross-Arm Coupling in Bimanual Imitation Learning**|Bo Zhao Team|[2610.26507](http://arxiv.org/abs/2610.26507)|null|
+|**2026-10-19**|**ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning**|Qian Zhu Team|[2610.26455](http://arxiv.org/abs/2610.26455)|null|
+|**2026-10-19**|**RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion**|Kai O. Arras Team|[2610.26414](http://arxiv.org/abs/2610.26414)|null|
+|**2026-10-19**|**PhantomTac: Hijacking Robotic Tactile Systems with Deploy-and-forget Tags**|Dongyao Chen Team|[2610.26174](http://arxiv.org/abs/2610.26174)|**[link](https://phantomtac.org)**|
 |**2026-10-19**|**CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA**|Shuo Yang Team|[2610.25927](http://arxiv.org/abs/2610.25927)|**[link](https://github.com/FeiyangHong/CondenseVLA)**|
 |**2026-10-19**|**Vision-Language-Delta-Action: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation**|Rui Shao Team|[2610.25874](http://arxiv.org/abs/2610.25874)|**[link](https://github.com/baidu-baige/LoongForge/tree/master/cookbook/loongforge-vlda)**|
 |**2026-10-19**|**OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects**|Gang Chen Team|[2610.25840](http://arxiv.org/abs/2610.25840)|null|
@@ -3800,6 +3810,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**What Language Adds, and at What Cost: Four Controlled Probes of Pathology Vision-Language Models**|Sheng Li Team|[2610.26805](http://arxiv.org/abs/2610.26805)|null|
+|**2026-10-19**|**CAVA: Complementary-Label-Aware Data Valuation**|Vu Nguyen Team|[2610.26734](http://arxiv.org/abs/2610.26734)|null|
+|**2026-10-19**|**CaptionFuse: Training-Free Composed Product Retrieval Via VLM Intent Captioning and Weighted Embedding Fusion**|Bassel Saleh Team|[2610.26661](http://arxiv.org/abs/2610.26661)|null|
+|**2026-10-19**|**SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?**|Weikang Li Team|[2610.26659](http://arxiv.org/abs/2610.26659)|null|
+|**2026-10-19**|**ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents**|Tianxiang Zhao Team|[2610.26503](http://arxiv.org/abs/2610.26503)|null|
+|**2026-10-19**|**Cartender: Verifiable Language-Conditioned Driving by Learning the Drives Not Taken**|Jun Ma Team|[2610.26390](http://arxiv.org/abs/2610.26390)|null|
+|**2026-10-19**|**XGLASS: X-Ray, Gaze and Language Assisted Slice Sequencing for CT Volumes**|Timo Ropinski Team|[2610.26255](http://arxiv.org/abs/2610.26255)|**[link](https://github.com/michaelgloeckler/XGLASS)**|
+|**2026-10-19**|**Provable Adversarial Detection: Prime Quantization meets Gromov--Wasserstein**|Hiroaki Kurihara Team|[2610.26102](http://arxiv.org/abs/2610.26102)|null|
 |**2026-10-19**|**SAPO: Self-Supervised Attention Policy Optimization for Improving Temporal Video Grounding in Vision-Language Models**|Xinghao Jiang Team|[2610.25923](http://arxiv.org/abs/2610.25923)|null|
 |**2026-10-19**|**Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation**|Yufeng Zhou Team|[2610.25810](http://arxiv.org/abs/2610.25810)|null|
 |**2026-10-19**|**VHA: VQA-based Hallucination Assessment for Generative Image Super-Resolution**|Bohyung Han Team|[2610.25770](http://arxiv.org/abs/2610.25770)|**[link](https://dhryougit.github.io/Hallucination-Assessment-pages/)**|
@@ -9924,6 +9942,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Ning Ding Team|[2610.26765](http://arxiv.org/abs/2610.26765)|null|
+|**2026-10-19**|**Robot Learning with Vision-Language-Action Models for Agricultural Manipulation**|Mohammadreza Davoodi Team|[2610.26717](http://arxiv.org/abs/2610.26717)|null|
+|**2026-10-19**|**HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control**|Zhengping Che Team|[2610.26584](http://arxiv.org/abs/2610.26584)|null|
+|**2026-10-19**|**SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models**|Li Du Team|[2610.26487](http://arxiv.org/abs/2610.26487)|null|
+|**2026-10-19**|**ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning**|Qian Zhu Team|[2610.26455](http://arxiv.org/abs/2610.26455)|null|
+|**2026-10-19**|**Robotic Photography System based on Vision-Language-Action Model**|Yansong Tang Team|[2610.26287](http://arxiv.org/abs/2610.26287)|null|
 |**2026-10-19**|**FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation**|Haiyue Zhu Team|[2610.25981](http://arxiv.org/abs/2610.25981)|null|
 |**2026-10-19**|**PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models**|Jinwoo Shin Team|[2610.25961](http://arxiv.org/abs/2610.25961)|**[link](https://pacevla.github.io/)**|
 |**2026-10-19**|**Vision-Language-Delta-Action: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation**|Rui Shao Team|[2610.25874](http://arxiv.org/abs/2610.25874)|**[link](https://github.com/baidu-baige/LoongForge/tree/master/cookbook/loongforge-vlda)**|
@@ -12053,6 +12077,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control**|Zhengping Che Team|[2610.26584](http://arxiv.org/abs/2610.26584)|null|
+|**2026-10-19**|**RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion**|Kai O. Arras Team|[2610.26414](http://arxiv.org/abs/2610.26414)|null|
+|**2026-10-19**|**Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection**|Wing-Yue Geoffrey Louie Team|[2610.26170](http://arxiv.org/abs/2610.26170)|null|
 |**2026-10-19**|**SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance**|Guanya Shi Team|[2610.25711](http://arxiv.org/abs/2610.25711)|**[link](https://iscoyizj.github.io/SWAP-steerable-humanoid-oa-website/)**|
 |**2026-10-19**|**Validation of Human Motor Development Scales with Humanoid Robots**|Jing Xiao Team|[2610.25701](http://arxiv.org/abs/2610.25701)|**[link](https://youtu.be/SR3LUVhohV4)**|
 |**2026-10-19**|**Humanoid SRL: Augmenting Humanoids with Supernumerary Limbs for Coordinated Loco-Manipulation**|Ye Zhao Team|[2610.25628](http://arxiv.org/abs/2610.25628)|null|
@@ -12779,12 +12806,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Yan Chang Team|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
+|**2026-10-19**|**HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation**|Ning Ding Team|[2610.26765](http://arxiv.org/abs/2610.26765)|null|
 |**2026-10-19**|**PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models**|Jinwoo Shin Team|[2610.25961](http://arxiv.org/abs/2610.25961)|**[link](https://pacevla.github.io/)**|
 |**2026-10-18**|**BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks**|Shengze Cai Team|[2610.25459](http://arxiv.org/abs/2610.25459)|null|
 |**2026-10-18**|**T(R,O) Grasp++: Cross-Embodiment Dexterous Grasping in Cluttered Environments at Scale**|Lin Shao Team|[2610.25410](http://arxiv.org/abs/2610.25410)|null|
 |**2026-10-17**|**Gen2Dex: Learning Dexterous Manipulation from Simulation-Initialized Generated Video Demonstrations**|Chuang Gan Team|[2610.24392](http://arxiv.org/abs/2610.24392)|null|
 |**2026-10-16**|**No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?**|Sethu Vijayakumar Team|[2610.23438](http://arxiv.org/abs/2610.23438)|null|
-|**2026-10-15**|**Has GPT-6-Astra Achieved Embodied Intelligence?**|Jing Zuo Team|[2610.22471](http://arxiv.org/abs/2610.22471)|**[link](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence)**|
+|**2026-10-19**|**Has GPT-6-Astra Achieved Embodied Intelligence?**|Jing Zuo Team|[2610.22471](http://arxiv.org/abs/2610.22471)|**[link](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence.)**|
 |**2026-10-15**|**Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation**|Jie Song Team|[2610.22363](http://arxiv.org/abs/2610.22363)|null|
 |**2026-10-15**|**Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation**|Wenbo Ding Team|[2610.22342](http://arxiv.org/abs/2610.22342)|**[link](https://xsparkai.com/Spark-0)**|
 |**2026-10-15**|**Dexterity from Supervised Play**|Ruoshi Liu Team|[2610.22340](http://arxiv.org/abs/2610.22340)|null|
