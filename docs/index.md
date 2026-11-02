@@ -4002,7 +4002,7 @@ layout: default
 |**2026-10-25**|**Does the Outfit Change the Price? Context Halo in Vision-Language Model Valuation of an Identical Low-Cost Necklace**|Brianne Lee Team|[2610.34591](http://arxiv.org/abs/2610.34591)|**[link](https://github.com/BraveAnn011/ai-halo-valuation-bias)**|
 |**2026-10-25**|**Recursive CLIP: Vision-Language Distillation with Looped Transformer Blocks**|Michał Byra Team|[2610.34563](http://arxiv.org/abs/2610.34563)|null|
 |**2026-10-25**|**GRASP: Group-Adaptive Hybrid RL-SFT Post-Training for Medical VQA without Reasoning Annotations**|Mehul Motani Team|[2610.34561](http://arxiv.org/abs/2610.34561)|null|
-|**2026-10-25**|**VTC-AUDIT: An Interventional Reliability Audit for Visual-Token Compression under Paired Image Shifts**| Li Team|[2610.34545](http://arxiv.org/abs/2610.34545)|**[link](https://github.com/IsaacLi74/VTC-AUDIT)**|
+|**2026-10-25**|**VTC-AUDIT: An Interventional Reliability Audit for Visual-Token Compression under Paired Image Shifts**|Li Team|[2610.34545](http://arxiv.org/abs/2610.34545)|**[link](https://github.com/IsaacLi74/VTC-AUDIT)**|
 |**2026-10-25**|**Conviction Without Evidence: Verdict Stability Is Independent of Visual Grounding in Medical Vision--Language Models**|Manuel Del Medico Team|[2610.34520](http://arxiv.org/abs/2610.34520)|null|
 |**2026-10-25**|**Multimodal Requirements Traceability Link Recovery in Industrial Settings**|Yuki Kurihara Team|[2610.34503](http://arxiv.org/abs/2610.34503)|null|
 |**2026-10-25**|**PhysCreator: Creating Physically-Attributed 3D Assets at Will**|Xiangyu Xu Team|[2610.34473](http://arxiv.org/abs/2610.34473)|null|
@@ -13205,7 +13205,7 @@ layout: default
 |**2026-10-24**|**RBGA: Residual-Budget Guide Arbitration for Offline-to-Online Safe Reinforcement Learning in Dexterous Manipulation**|Guang Chen Team|[2610.33494](http://arxiv.org/abs/2610.33494)|null|
 |**2026-10-24**|**Learning Dexterous Manipulation: Hands, Simulators, Training, and Evaluation**|Luai Abuelsamen Team|[2610.33486](http://arxiv.org/abs/2610.33486)|null|
 |**2026-10-24**|**MDPO: Multi-constraint Dexterous Policy Optimization with Reinforcement Learning**|Guang Chen Team|[2610.33480](http://arxiv.org/abs/2610.33480)|null|
-|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**| SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
+|**2026-10-24**|**MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation**|SpatialtemporalAI Team|[2610.33446](http://arxiv.org/abs/2610.33446)|null|
 |**2026-10-23**|**ORBIT: A Modular Multi-finger Robotic Hand Platform with Rotational Finger Reconfiguration**|Lillian Chin Team|[2610.33241](http://arxiv.org/abs/2610.33241)|null|
 |**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Haozhi Qi Team|[2610.32969](http://arxiv.org/abs/2610.32969)|**[link](https://amberxie88.github.io/dexport/)**|
 |**2026-10-22**|**EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions**|Yansong Tang Team|[2610.31845](http://arxiv.org/abs/2610.31845)|**[link](https://lin-shan.com/EgoForesight)**|
