@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Mechanistic Interpretability for End-to-End Self-Driving**|Rohan Paleja Team|[2610.41185](http://arxiv.org/abs/2610.41185)|**[link](https://mgagvani.github.io/mechanistic-interpretability-for-e2e-driving/)**|
+|**2026-10-29**|**CuPIQP: A Batched and Differentiable QP Solver on GPUs for Robot Learning and Control**|Colin N. Jones Team|[2610.41021](http://arxiv.org/abs/2610.41021)|null|
+|**2026-10-29**|**STAR: Steering Action Representations during Inference**|Yiwu Zhong Team|[2610.41009](http://arxiv.org/abs/2610.41009)|null|
+|**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Jim Gibbons Team|[2610.40828](http://arxiv.org/abs/2610.40828)|null|
+|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Xiangyu Yue Team|[2610.40799](http://arxiv.org/abs/2610.40799)|null|
+|**2026-10-29**|**WorldBridge: Bridging Video and Action for Task Generalization in World Action Models**|Duo Zheng Team|[2610.40748](http://arxiv.org/abs/2610.40748)|**[link](https://worldbridge-jd.github.io/)**|
 |**2026-10-29**|**SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing**|Yiyue Luo Team|[2610.40646](http://arxiv.org/abs/2610.40646)|null|
 |**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Xiangbo Shu Team|[2610.40373](http://arxiv.org/abs/2610.40373)|null|
 |**2026-10-29**|**JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning**|Yi Fang Team|[2610.40356](http://arxiv.org/abs/2610.40356)|null|
@@ -3914,6 +3920,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Hawkeye: Reading Illegible Text with Vision Language Models**|Kang G. Shin Team|[2610.41254](http://arxiv.org/abs/2610.41254)|**[link](https://byron123t.github.io/hawkeye/)**|
+|**2026-10-30**|**TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents**|Michael Bi Mi Team|[2610.41216](http://arxiv.org/abs/2610.41216)|**[link](https://garfield-kh.github.io/TinyAstral/)**|
+|**2026-10-30**|**LLM Detoxification via Transition-Aware Reward-Guided Representation Sampling**|Dacheng Tao Team|[2610.41165](http://arxiv.org/abs/2610.41165)|null|
+|**2026-10-29**|**Grounding Image Composition with Label-Conditioned Visual Evidence**|Markus Seidl Team|[2610.41080](http://arxiv.org/abs/2610.41080)|null|
+|**2026-10-29**|**FieldGuideRAG: Image-Grounded GraphRAG for Fine-Grained Recognition with Vision-Language Models**|Peihua Mai Team|[2610.40971](http://arxiv.org/abs/2610.40971)|null|
+|**2026-10-29**|**Drone-PUR: From Visual Clue Discovery to Understanding and Reasoning in UAV Scenes**|Pengfei Zhu Team|[2610.40801](http://arxiv.org/abs/2610.40801)|null|
+|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Xiangyu Yue Team|[2610.40799](http://arxiv.org/abs/2610.40799)|null|
 |**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Egor Bondarau Team|[2610.40580](http://arxiv.org/abs/2610.40580)|**[link](https://github.com/jacomof/RADIOlogy)**|
 |**2026-10-29**|**VeriCUA: Verification as Agentic Exploration for Computer-Using Agents**|Pritish Kamath Team|[2610.40578](http://arxiv.org/abs/2610.40578)|null|
 |**2026-10-29**|**Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models**|Zheng Zhang Team|[2610.40309](http://arxiv.org/abs/2610.40309)|null|
@@ -10198,6 +10211,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**STAR: Steering Action Representations during Inference**|Yiwu Zhong Team|[2610.41009](http://arxiv.org/abs/2610.41009)|null|
+|**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Jim Gibbons Team|[2610.40828](http://arxiv.org/abs/2610.40828)|null|
+|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Xiangyu Yue Team|[2610.40799](http://arxiv.org/abs/2610.40799)|null|
 |**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Sean Welleck Team|[2610.40565](http://arxiv.org/abs/2610.40565)|null|
 |**2026-10-29**|**BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing**|Kaizhe Hu Team|[2610.40532](http://arxiv.org/abs/2610.40532)|null|
 |**2026-10-29**|**Improving Fine-Grained Manipulation through Demonstration Expansion and Execution Design**|Dongze Lian Team|[2610.40430](http://arxiv.org/abs/2610.40430)|null|
@@ -12417,6 +12433,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**DyCraft: An Agentic System for Long-Horizon 4D Scene Generation**|Jiajun Wu Team|[2610.40754](http://arxiv.org/abs/2610.40754)|**[link](https://dy-craft.github.io/)**|
 |**2026-10-29**|**ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning**|Caelan Garrett Team|[2610.39429](http://arxiv.org/abs/2610.39429)|**[link](https://schedulegen.github.io/)**|
 |**2026-10-28**|**Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand**|Nicklas Hansen Team|[2610.39044](http://arxiv.org/abs/2610.39044)|null|
 |**2026-10-27**|**FORGE: Feasible Online Reduced-Order Reference Generation and Whole-Body Execution for Agile Humanoid Locomotion**|Soon-Jo Chung Team|[2610.37974](http://arxiv.org/abs/2610.37974)|null|
@@ -12431,6 +12448,7 @@ layout: default
 |**2026-10-28**|**LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation**|Xuelong Li Team|[2610.30876](http://arxiv.org/abs/2610.30876)|null|
 |**2026-10-24**|**Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation**|Guang Chen Team|[2610.30540](http://arxiv.org/abs/2610.30540)|null|
 |**2026-10-21**|**MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion**|Hung Manh La Team|[2610.30334](http://arxiv.org/abs/2610.30334)|null|
+|**2026-10-29**|**Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer**|Grace X. Gao Team|[2610.30080](http://arxiv.org/abs/2610.30080)|null|
 |**2026-10-21**|**SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation**|Yao Mu Team|[2610.30044](http://arxiv.org/abs/2610.30044)|null|
 |**2026-10-21**|**PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits**|Cong Wang Team|[2610.29030](http://arxiv.org/abs/2610.29030)|**[link](https://lnkd.in/p/er-NRfMn)**|
 |**2026-10-20**|**Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning**|Donghyun Kim Team|[2610.28470](http://arxiv.org/abs/2610.28470)|null|
@@ -13164,6 +13182,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds**|Lin Shao Team|[2610.41028](http://arxiv.org/abs/2610.41028)|**[link](https://nus-lins-lab.github.io/CIMIWeb/)**|
+|**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Jim Gibbons Team|[2610.40828](http://arxiv.org/abs/2610.40828)|null|
 |**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Huazhe Xu Team|[2610.40349](http://arxiv.org/abs/2610.40349)|null|
 |**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Nan Wu Team|[2610.40210](http://arxiv.org/abs/2610.40210)|null|
 |**2026-10-29**|**Coupled Guidance for Flow Matching**|Amir Rasouli Team|[2610.40109](http://arxiv.org/abs/2610.40109)|null|
