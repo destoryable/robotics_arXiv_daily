@@ -16,6 +16,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation**|Deepak Pathak Team|[2611.03648](http://arxiv.org/abs/2611.03648)|**[link](https://pixel-robot.com/pixel)**|
+|**2026-11-02**|**D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models**|Abhishek Gupta Team|[2611.03622](http://arxiv.org/abs/2611.03622)|**[link](https://weirdlabuw.github.io/dna)**|
+|**2026-11-02**|**When Robots Outweigh Objects: How Inertia Mismatch Shapes Robot Policy Learning**|Pulkit Agrawal Team|[2611.03501](http://arxiv.org/abs/2611.03501)|**[link](https://younghyopark.me/inertia-mismatch/)**|
+|**2026-11-02**|**Exploring Proximity and Tactile Sensing for Robotic Manipulation**|Taskin Padir Team|[2611.03489](http://arxiv.org/abs/2611.03489)|null|
+|**2026-11-02**|**VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation**|Glen Chou Team|[2611.03268](http://arxiv.org/abs/2611.03268)|null|
+|**2026-11-02**|**Rollout then Recycle: 3,718 Labelled Real-Robot Episodes from Benchmarking 7 Policies on 12 Tasks**|Ville Kuosmanen Team|[2611.03168](http://arxiv.org/abs/2611.03168)|null|
+|**2026-11-02**|**KlaskTron: An Open-Source Platform for Physical Adversarial Multi-Agent RL**|Raffaello D'Andrea Team|[2611.03138](http://arxiv.org/abs/2611.03138)|null|
+|**2026-11-02**|**VLALagBench: Understanding When and Why VLA Inference Latency Matters**|Wenqi Jiang Team|[2611.03103](http://arxiv.org/abs/2611.03103)|**[link](https://github.com/codestrongestx/VLALagBench)**|
+|**2026-11-02**|**KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge**|Raffaello D'Andrea Team|[2611.03091](http://arxiv.org/abs/2611.03091)|null|
+|**2026-11-02**|**BeyondContact: A Reinforcement Learning Framework for Airflow-Based Non-Contact Manipulation**|Claudio Semini Team|[2611.03059](http://arxiv.org/abs/2611.03059)|null|
+|**2026-11-02**|**PointPilot: Unified Robotic Manipulation via Object-Centric 3D Point Flow Prediction**|Kui Jia Team|[2611.02930](http://arxiv.org/abs/2611.02930)|null|
+|**2026-11-02**|**SomaAlign: Reliability-Aware Multimodal Representation Learning for Soft Robotic Grasping**|Jian Huang Team|[2611.02794](http://arxiv.org/abs/2611.02794)|null|
+|**2026-11-02**|**Visuo-tactile Diffusion Policy for Robotic Manipulation with Auxiliary Tactile Dynamics Prediction**|Dong Zhou Team|[2611.02677](http://arxiv.org/abs/2611.02677)|null|
+|**2026-11-02**|**DexArena: A Unified Benchmark for Long-Horizon Dexterous Manipulation**|Yutong Ban Team|[2611.02629](http://arxiv.org/abs/2611.02629)|**[link](https://sipair-elastic.github.io/DexArena-website/)**|
+|**2026-11-02**|**W2A: Distilling World Priors into Action Models for Real-Time Robotic Control**|Yanjie Li Team|[2611.02600](http://arxiv.org/abs/2611.02600)|null|
+|**2026-11-02**|**Neuro Inspired Robotics: What Robot Learning Can Borrow from the Sensorimotor Brain**|Davy Deng Team|[2611.02510](http://arxiv.org/abs/2611.02510)|null|
 |**2026-11-01**|**Control Barrier Functions for Safety-Aware Latent-Space Motion Planning**|Siddhanth Ramesh Team|[2611.01814](http://arxiv.org/abs/2611.01814)|null|
 |**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jianfei Yang Team|[2611.01729](http://arxiv.org/abs/2611.01729)|null|
 |**2026-11-01**|**UA-Depth: Uncertainty-Aware Depth Restoration for Material-Agnostic Object Manipulation**|Yun-Hui Liu Team|[2611.01645](http://arxiv.org/abs/2611.01645)|null|
@@ -3954,6 +3970,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models**|Abhishek Gupta Team|[2611.03622](http://arxiv.org/abs/2611.03622)|**[link](https://weirdlabuw.github.io/dna)**|
+|**2026-11-02**|**TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation**|Caelan Garrett Team|[2611.03584](http://arxiv.org/abs/2611.03584)|**[link](https://umishra.me/TAMPAgent/)**|
+|**2026-11-02**|**PlantVLM-Edge: Quantized Vision-Language Models for On-Device Crop Health Diagnosis**|Dong Chen Team|[2611.03557](http://arxiv.org/abs/2611.03557)|null|
+|**2026-11-02**|**Same Outputs, Different Scores: Auditing the Unchecked Graders of Multimodal LLM Benchmarks**|Jonathan Lwowski Team|[2611.03377](http://arxiv.org/abs/2611.03377)|**[link](https://github.com/ahmadhasan2k8/grader-audit)**|
+|**2026-11-02**|**EO-Jev: Decision Model for Earth Observation**|Salman Khan Team|[2611.03371](http://arxiv.org/abs/2611.03371)|null|
+|**2026-11-02**|**Every Pixel Is an Option: A System One Model for Medical Ultrasound Biometry**|Ilker Hacihaliloglu Team|[2611.03360](http://arxiv.org/abs/2611.03360)|null|
+|**2026-11-02**|**ArabGeoText: Tool-Augmented Vision-Language Models for Arabic Geospatial Text Spotting**|Mansour Zuair Team|[2611.03339](http://arxiv.org/abs/2611.03339)|null|
+|**2026-11-02**|**VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation**|Glen Chou Team|[2611.03268](http://arxiv.org/abs/2611.03268)|null|
+|**2026-11-02**|**Behavioral Affinity Transduction for Zero-Shot Vision-Language Classification**|Nan Cheng Team|[2611.03132](http://arxiv.org/abs/2611.03132)|null|
+|**2026-11-02**|**SurgPace: Complexity-Aware Progressive Distillation for Surgical Multimodal Large Language Models**|Long Bai Team|[2611.03125](http://arxiv.org/abs/2611.03125)|null|
+|**2026-11-02**|**DR Pixel: Page-Native Deep Research with Vision-Language Models**|Sewon Min Team|[2611.03097](http://arxiv.org/abs/2611.03097)|null|
+|**2026-11-02**|**VL-Dedup: Graded Multimodal Entity Resolution for Image-Text Data Deduplication**|Gongsheng Yuan Team|[2611.03080](http://arxiv.org/abs/2611.03080)|null|
+|**2026-11-02**|**VLM-as-a-Judge for Person Re-Identification**|Vincent Lepetit Team|[2611.03027](http://arxiv.org/abs/2611.03027)|null|
+|**2026-11-02**|**VizDAGuide: Misleading Chart Question Answering in Compact Vision Language Models via DAG-Structured Supervision**|Changbo Wang Team|[2611.03023](http://arxiv.org/abs/2611.03023)|null|
+|**2026-11-02**|**Bridging Low-Level Image Fusion and High-Level Semantic Understanding**|Hao Zhang Team|[2611.02896](http://arxiv.org/abs/2611.02896)|null|
+|**2026-11-02**|**Trace4D: Grounded Spatiotemporal Reasoning via 4D State Sequences**|Lei Ji Team|[2611.02759](http://arxiv.org/abs/2611.02759)|**[link](https://cvlab-kaist.github.io/Trace4D)**|
+|**2026-11-02**|**GeoGuesser Bench: Benchmarking Vision-Language Agents on Interactive Geolocation**|Joseph E. Gonzalez Team|[2611.02698](http://arxiv.org/abs/2611.02698)|null|
+|**2026-11-02**|**PriCBMs: Multi-granular Concept Bottleneck Vision-Language Models for Visual Privacy Recognition**|Wenlong Yu Team|[2611.02661](http://arxiv.org/abs/2611.02661)|null|
+|**2026-11-02**|**SMILE: A Structured Multi-Agent Clinical Reasoning for Liver Ultrasound Understanding**|Kyungho Yoon Team|[2611.02581](http://arxiv.org/abs/2611.02581)|null|
+|**2026-11-02**|**Blueprint2CAD: Benchmarking Foundation Models on Engineering Drawing-to-CAD Render Correspondence**|Marcos V. Conde Team|[2611.02433](http://arxiv.org/abs/2611.02433)|null|
 |**2026-11-01**|**Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Road-Cloud Collaborative Driving**|Tingting Zhao Team|[2611.01996](http://arxiv.org/abs/2611.01996)|null|
 |**2026-11-01**|**VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph**|Seunghee Park Team|[2611.01939](http://arxiv.org/abs/2611.01939)|**[link](https://vlsplat.github.io/)**|
 |**2026-11-01**|**TriPhysBench: Evaluating Physical Intelligence for Embodied Agents**|Kun Wang Team|[2611.01934](http://arxiv.org/abs/2611.01934)|null|
@@ -10273,6 +10309,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**Rollout then Recycle: 3,718 Labelled Real-Robot Episodes from Benchmarking 7 Policies on 12 Tasks**|Ville Kuosmanen Team|[2611.03168](http://arxiv.org/abs/2611.03168)|null|
+|**2026-11-02**|**VLALagBench: Understanding When and Why VLA Inference Latency Matters**|Wenqi Jiang Team|[2611.03103](http://arxiv.org/abs/2611.03103)|**[link](https://github.com/codestrongestx/VLALagBench)**|
+|**2026-11-02**|**Beyond Policy Patches: Distilling RL Specialists into Vision-Language-Action Policies**|Chao Yu Team|[2611.02777](http://arxiv.org/abs/2611.02777)|null|
+|**2026-11-02**|**HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation**|Suyun Lee Team|[2611.02660](http://arxiv.org/abs/2611.02660)|**[link](https://kimspacehuni.github.io/HeLM/)**|
+|**2026-11-02**|**RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild**|Jiafei Duan Team|[2611.02497](http://arxiv.org/abs/2611.02497)|**[link](https://robocolosseum.ai/)**|
+|**2026-11-01**|**SVD-Prune: Spectral Vision Token Pruning under Extreme Compression**|Samia Bouchafa Team|[2611.02284](http://arxiv.org/abs/2611.02284)|**[link](https://github.com/anoncvlab/svdPrune)**|
+|**2026-11-01**|**When Delay Meets Drift: Physical Safety of Robot Foundation Models Is a Cross-Layer Problem**|Bimal Thapa Magar Team|[2611.02101](http://arxiv.org/abs/2611.02101)|null|
+|**2026-11-01**|**Scene-Adaptive Readout and Decoding in Diffusion Driving VLAs**|Hyunjung Shim Team|[2611.02076](http://arxiv.org/abs/2611.02076)|null|
 |**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jianfei Yang Team|[2611.01729](http://arxiv.org/abs/2611.01729)|null|
 |**2026-11-01**|**Route-Guided CBF-QP Repair for Safe Vision-Language-Action Models**|Ali Pesaranghader Team|[2611.01713](http://arxiv.org/abs/2611.01713)|null|
 |**2026-11-01**|**GatedVLA with Camera-Based Emergency Braking: AlpaSim E2E Closed Loop Challenge Technical Report**|Makoto Kawano Team|[2611.01663](http://arxiv.org/abs/2611.01663)|null|
@@ -12516,6 +12560,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**When will androids outnumber humans?**|Jesse H. Ausubel Team|[2611.03242](http://arxiv.org/abs/2611.03242)|null|
+|**2026-11-02**|**ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation**|Mitsuhiro Hayashibe Team|[2611.02968](http://arxiv.org/abs/2611.02968)|null|
+|**2026-11-02**|**MAPO: Mixture of Experts with Alternating Policy Optimization for Universal Humanoid Motion Tracking**|Hyun Myung Team|[2611.02613](http://arxiv.org/abs/2611.02613)|null|
 |**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jianfei Yang Team|[2611.01729](http://arxiv.org/abs/2611.01729)|null|
 |**2026-10-31**|**Learning Agile Humanoid Dodgeball with Onboard Monocular Vision**|Marco Hutter Team|[2611.01197](http://arxiv.org/abs/2611.01197)|null|
 |**2026-10-29**|**DyCraft: An Agentic System for Long-Horizon 4D Scene Generation**|Jiajun Wu Team|[2610.40754](http://arxiv.org/abs/2610.40754)|**[link](https://dy-craft.github.io/)**|
@@ -13269,6 +13316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**DexArena: A Unified Benchmark for Long-Horizon Dexterous Manipulation**|Yutong Ban Team|[2611.02629](http://arxiv.org/abs/2611.02629)|**[link](https://sipair-elastic.github.io/DexArena-website/)**|
 |**2026-11-01**|**$TF^2$ -Steering: Action Refinement with Tactile Forecasts and Feedback via Velocity-Field Steering**|Li Zhang Team|[2611.01483](http://arxiv.org/abs/2611.01483)|**[link](https://yiming-cc.github.io/tf2-steering/)**|
 |**2026-10-30**|**HandMimicX: Learning Human-Like Dexterous Manipulation via an Object-Centric Policy from Egocentric Videos**|Haoqian Wang Team|[2610.41336](http://arxiv.org/abs/2610.41336)|null|
 |**2026-10-29**|**Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds**|Lin Shao Team|[2610.41028](http://arxiv.org/abs/2610.41028)|**[link](https://nus-lins-lab.github.io/CIMIWeb/)**|
