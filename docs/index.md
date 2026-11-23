@@ -10824,7 +10824,7 @@ layout: default
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Ngan Le Team|[2611.26565](http://arxiv.org/abs/2611.26565)|null|
 |**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Zhi Wang Team|[2611.26444](http://arxiv.org/abs/2611.26444)|null|
 |**2026-11-19**|**Risk-Controlled Test-Time Adaptation for Vision-Language-Action Models**|Siavash Khajavi Team|[2611.26438](http://arxiv.org/abs/2611.26438)|null|
-|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**| EngineAI Team|[2611.26420](http://arxiv.org/abs/2611.26420)|**[link](https://engineai-robotics.github.io/Awaken-HI)**|
+|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**|EngineAI Team|[2611.26420](http://arxiv.org/abs/2611.26420)|**[link](https://engineai-robotics.github.io/Awaken-HI)**|
 |**2026-11-19**|**TacInno: Teaching Vision-Language-Action Models the Contact Dynamics Beyond Vision and Action**|Zhibo Pang Team|[2611.26405](http://arxiv.org/abs/2611.26405)|**[link](https://tacinno.github.io)**|
 |**2026-11-19**|**FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving**|Ziying Song Team|[2611.26242](http://arxiv.org/abs/2611.26242)|null|
 |**2026-11-19**|**Teaching Vision-Language-Action Models to Stop Safely**|Meng Jiang Team|[2611.26239](http://arxiv.org/abs/2611.26239)|null|
@@ -10835,7 +10835,7 @@ layout: default
 |**2026-11-19**|**FlashX: Scaling Robotic Experience Reuse for Embodied Agents with CBA-Based NAND Flash**|Sangjin Kim Team|[2611.25580](http://arxiv.org/abs/2611.25580)|null|
 |**2026-11-19**|**CoachSI: Self-Improvement of Robot Policies with a Language Coach**|Yan Yan Team|[2611.25529](http://arxiv.org/abs/2611.25529)|**[link](https://tlxhlll.github.io/CoachSI/)**|
 |**2026-11-19**|**ActMem: From Latent Memory Reasoning to Grounded Robotic Action**|Mu Li Team|[2611.25461](http://arxiv.org/abs/2611.25461)|**[link](https://github.com/LigphiDonk/ActMem)**|
-|**2026-11-19**|**LoongForge-Embodied: A Unified Framework for Training Heterogeneous Embodied Models**| LoongForge Team Team|[2611.25460](http://arxiv.org/abs/2611.25460)|null|
+|**2026-11-19**|**LoongForge-Embodied: A Unified Framework for Training Heterogeneous Embodied Models**|LoongForge Team Team|[2611.25460](http://arxiv.org/abs/2611.25460)|null|
 |**2026-11-19**|**Dune: A Zeroth-Order Optimizer with Time-Conditioned Historical Error Regression for VLA Test-Time Adaptation**|Jialong Sun Team|[2611.25400](http://arxiv.org/abs/2611.25400)|null|
 |**2026-11-19**|**RefreshGrad: An Online Adaptive Data-sampling Method for Diffusion-based Visuomotor Learning**|Jie Tang Team|[2611.25398](http://arxiv.org/abs/2611.25398)|null|
 |**2026-11-18**|**WEVO: World Model-Enabled VLA Optimization for Whole-Body Loco-Manipulation**|Roberto Martín-Martín Team|[2611.25251](http://arxiv.org/abs/2611.25251)|null|
@@ -13228,7 +13228,7 @@ layout: default
 |**2026-11-20**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Cheng Wang Team|[2611.27181](http://arxiv.org/abs/2611.27181)|null|
 |**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Ioannis Havoutis Team|[2611.26596](http://arxiv.org/abs/2611.26596)|null|
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Ngan Le Team|[2611.26565](http://arxiv.org/abs/2611.26565)|null|
-|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**| EngineAI Team|[2611.26420](http://arxiv.org/abs/2611.26420)|**[link](https://engineai-robotics.github.io/Awaken-HI)**|
+|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**|EngineAI Team|[2611.26420](http://arxiv.org/abs/2611.26420)|**[link](https://engineai-robotics.github.io/Awaken-HI)**|
 |**2026-11-19**|**Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network**|Olivier Stasse Team|[2611.26074](http://arxiv.org/abs/2611.26074)|null|
 |**2026-11-19**|**Reference-Free Humanoid Skateboarding via Termination-Shaped Reinforcement Learning**|Kevin Sebastian Luck Team|[2611.26054](http://arxiv.org/abs/2611.26054)|null|
 |**2026-11-18**|**ReLoco: Unified Humanoid Locomotion and Fall Recovery via Behavior-Conditioned Motion Priors**|Shiqi Li Team|[2611.23916](http://arxiv.org/abs/2611.23916)|null|
